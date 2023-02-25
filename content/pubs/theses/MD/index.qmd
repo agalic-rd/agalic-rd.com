@@ -1,0 +1,74 @@
+---
+title: "Psychological factors associated with nicotine addiction in college students"
+subtitle: "Medical Thesis"
+date: 2017-04-01
+
+author:
+  - name: "Agalic Rodriguez-Duboc"
+
+image: feature.png
+image-alt: "TODO"
+
+description: "TODO"
+
+abstract: |
+  **Background:** In the past decade, there has been a significant increase in the 
+  consumption of tobacco derived products and newer forms of nicotine delivery; 
+  thus raising an important public health issue worldwide.
+
+  **Importance:** In the current literature, no studies have considered a global 
+  perspective on the psychological factors involved in the building and perpetuation 
+  of addiction in college students. Addiction is a multidimensional phenomenon that 
+  must be understood from a psychological standpoint in order to identify its 
+  underlying causes and develop targeted preventive measures.
+
+  **Objective:** To assess the relationships between psychological factors and nicotine 
+  addiction in university students of Pontificia Universidad Católica Madre y Maestra, 
+  Santiago campus, Dominican Republic, in January-February 2017.
+
+  **Methods:** An analytical observational study was conducted on 221 university 
+  students (150 non-smokers y 71 smokers) in PUCMM, Santiago. The survey was 
+  developed through the online platform eSurveycreator. The scales used were: 
+  NDSS, HARS, Breve CET-DE, UPPS-P and 3 ad hoc questions to measure the 
+  variable of Harm Perception. For the statistical analysis of the collected data,
+  SPSS 23.0 (Statistical Package for Social Sciences) was used.
+
+  **Results:** Regarding harm perception, 86.42% of participants considered 
+  cigarettes to be “severely” or “dangerously” harmful. Whereas for hookah and 
+  electronic cigarettes that level of harm was only assigned by 66.52% y 47.96% of 
+  students respectively. No participants displayed addiction (Total Addiction score 
+  lesser than -1.024 with a mean of -2.684). For the inferential analysis, a randomly 
+  corrected sample, equivalent in terms of sex, education and use (59 non-smokers 
+  y 51 smokers) was selected from the gross data. Addiction was shown to have a 
+  positive correlation (dimensions Drive and Priority) with Anxiety and Depression, 
+  as well as a negative correlation (dimension Tolerance) with Anxiety alone. No 
+  correlations were found between Addiction and Impulsivity. Smokers were found 
+  to be significantly less anxious than non-smokers. No differences were found 
+  regarding depression levels between groups. Non-smokers had a significantly 
+  higher score than smokers for Sensation Seeking and Positive Urgency on the 
+  Impulsivity scale.
+
+  **Conclusion:** The participants of this study showed very peculiar traits. The results 
+  differed in many ways from previous studies. These are discussed and 
+  interpretations on their meaning and implications are proposed. Moreover, new 
+  findings were highlighted regarding the existing relationship between the 
+  dimensions of addiction and the psychological factors. Further research will be 
+  profitable to the understanding of these results.
+
+website:
+  open-graph:
+    image: feature.png
+    description: "TODO"
+  twitter-card:
+    image: feature.png
+    description: "TODO"
+
+categories:
+  - Addiction
+---
+
+<hr style="margin-bottom: 30px; margin-top: -12px">
+
+<object data="MD Thesis.pdf" type="application/pdf" width="100%" height="900">
+  <p><a href="MD Thesis.pdf">Link to the PDF</a></p>
+</object>

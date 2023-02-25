@@ -1,0 +1,18 @@
+# Art
+
+image: ../../res/avatar.jpg
+image-alt: "Profile picture of Agalic"
+
+resources: 
+- "*/*/*.pdf"
+
+about:
+  id: additional-links
+  template: solana
+  image-width: "0%"
+
+filters:
+  - lightbox
+
+lightbox:
+  match: auto

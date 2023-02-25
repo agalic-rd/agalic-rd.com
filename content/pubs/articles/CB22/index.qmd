@@ -1,0 +1,89 @@
+---
+title: "Intermittent hypoxia in a mouse model of apnea of prematurity leads to a retardation of cerebellar development and long-term functional deficits"
+subtitle: "Cell & Bioscience"
+date: 2022-09-06
+
+image: feature.png
+image-alt: "TODO"
+
+author:
+  - name: "Sarah Leroux"
+    orcid: 0000-0000-0000-0000
+    attributes:
+      equal-contributor: true
+    affiliations:
+    - ref: sanofi
+  - name: "Agalic Rodriguez-Duboc"
+    orcid: 0000-0002-2084-3780
+    affiliations:
+    - ref: cbg
+    attributes:
+      equal-contributor: true
+  - name: "Arnaud Arabo"
+    affiliations:
+      - ref: dc2n
+  - name: "Magali Basille-Duguay"
+    affiliations:
+      - ref: dc2n
+  - name: "David Vaudry"
+    affiliations:
+      - ref: cbg
+  - name: "Delphine Burel"
+    email: "delphine.burel@univ-rouen.fr"
+    affiliations:
+      - ref: cbg
+    attributes:
+      corresponding: true
+
+doi: 10.1186/s13578-022-00869-5
+
+description: "TODO"
+
+abstract: |
+  **Background:** Apnea of prematurity (AOP) is caused by respiratory control immaturity and affects nearly 50% of premature newborns. 
+  This pathology induces perinatal intermittent hypoxia (IH), which leads to neurodevelopmental disorders. 
+  The impact on the brain has been well investigated. However, despite its functional importance and immaturity at birth, the involvement of the cerebellum remains poorly understood. 
+  Therefore, this study aims to identify the effects of IH on cerebellar development using a mouse model of AOP consisting of repeated 2-min cycles of hypoxia and reoxygenation over 6 h and for 10 days starting on postnatal day 2 (P2).
+  
+  **Results:** At P12, IH-mouse cerebella present higher oxidative stress associated with delayed maturation of the cerebellar cortex and decreased dendritic arborization of Purkinje cells. 
+  Moreover, mice present with growth retardation and motor disorders. In response to hypoxia, the developing cerebellum triggers compensatory mechanisms resulting in the unaltered organization of the cortical layers from P21 onwards. 
+  Nevertheless, some abnormalities remain in adult Purkinje cells, such as the dendritic densification, the increase in afferent innervation, and axon hypomyelination. 
+  Moreover, this compensation seems insufficient to allow locomotor recovery because adult mice still show motor impairment and significant disorders in spatial learning.
+  
+  **Conclusions:** All these findings indicate that the cerebellum is a target of intermittent hypoxia through alterations of developmental mechanisms leading to long-term functional deficits. 
+  Thus, the cerebellum could contribute, like others brain structures, to explaining the pathophysiology of AOP.
+
+categories:
+  - "Molecular Neurosciences"
+  - "Neurodevelopment"
+  - "Apnea of Prematurity"
+  - "Hypoxia"
+
+citation:
+  type: article-journal
+  container-title: "Cell & Bioscience"
+  container-title-short: "Cell Biosci"
+  doi: 10.1186/s13578-022-00869-5
+  url: https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-022-00869-5
+  volume: 12
+  issue: 1
+  issn: "2045-3701"
+
+# Dirty trick to get some links/buttons
+about:
+  links:
+    - text: "Download PDF"
+      icon: file-pdf
+      url: /content/pubs/CB22/CB22.pdf
+      aria-label: "See the article's PDF"
+    - text: "Data & Analyses"
+      icon: github
+      url: https://ma-riviere.github.io/LT-AoP-22/
+      aria-label: "See the article's data & analyses on GitHub"
+---
+
+<hr style="margin-bottom: 30px; margin-top: -12px">
+
+<object data="CB22.pdf" type="application/pdf" width="100%" height="900">
+  <p><a href="CB22.pdf">Link to the PDF</a></p>
+</object>

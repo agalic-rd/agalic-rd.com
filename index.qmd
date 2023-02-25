@@ -1,0 +1,56 @@
+---
+title: "Agalic Rodriguez-Duboc"
+subtitle: "MD & Molecular Neuroscience PhD candidate interested in Neurodeveloment, Arts, and Books  \n {{< iconify twemoji flag-dominican-republic >}} ▪️ {{< iconify twemoji flag-france >}} ▪️ {{< iconify twemoji flag-united-states >}} ▪ {{< iconify twemoji flag-norway >}}"
+
+description: "PhD Candidate - [Cancer and Brain Genomics lab](https://irib.univ-rouen.fr/index.php?info=entites&id=69)"
+
+image: res/avatar.jpg
+image-alt: "Profile picture of Agalic"
+
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - text: "GitHub"
+      icon: github
+      url: https://github.com/alice-21/
+      rel: "me"
+      aria-label: "GitHub"
+    - text: "Twitter"
+      icon: twitter
+      url: https://twitter.com/Agalic21
+      rel: "me"
+      aria-label: "Twitter"
+    - text: LinkedIn
+      icon: linkedin
+      url: https://linkedin.com/in/agalic-rd
+      rel: "me"
+      aria-label: "LinkedIn"
+    - text: "{{< ai orcid >}} ORCID"
+      url: https://orcid.org/0000-0002-2084-3780
+      rel: "me"
+      aria-label: "ORCID"
+    - text: "Email"
+      icon: envelope
+      url: "mailto:agalic.rd+site@gmail.com"
+      aria-label: "Email"
+    - text: "{{< fa user-tie >}} Resume"
+      url: res/cv.pdf
+      aria-label: "My resume (PDF)"
+
+website:
+  open-graph:
+    description: "TODO"
+  twitter-card:
+    description: "TODO"
+
+filters:
+  - nutshell
+---
+
+::: {.column-page}
+
+Trained as a general physician and passionate about research, I am currently finalizing my PhD dissertation in the field of cellular
+and molecular neurosciences. My project is focused on cerebellar development and apnea of prematurity.
+
+:::

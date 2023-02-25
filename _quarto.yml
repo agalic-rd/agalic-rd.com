@@ -1,0 +1,150 @@
+project:
+  type: website
+  output-dir: "_site"
+  resources:
+    - .nojekyll
+    # - CNAME
+    - "/res/*"
+    - "/libs/*"
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "*.ipynb"
+    - "*.Rmd"
+    - "!TODO.md"
+    - "!LICENSE.md"
+    - "!src/"
+  # pre-render: 
+  # post-render: 
+
+website:
+  title: "Agalic Rodriguez-Duboc"
+  description: "TODO"
+  image: res/avatar.jpg
+  favicon: res/favicon.png
+  # site-url: 'https://agalic.com'
+  # repo-url: https://github.com/alice-21/agalic.com
+  # repo-branch: main
+  # repo-actions: [source, issue]
+  
+  ### Analytics ###
+  # google-analytics:
+  #   tracking-id: "G-QP3K4HM02B"
+  cookie-consent:
+    type: implied
+  
+  ### Sharing ###
+  open-graph:
+    locale: en_US
+  twitter-card:
+    creator: "@Agalic21"
+    card-style: summary
+  
+  ### Search ###
+  search:
+    location: navbar
+    type: overlay
+    collapse-after: 10
+  
+  ### Navigation ###
+  # page-navigation: true
+  navbar:
+    # logo: TODO
+    # logo-alt: ""
+    pinned: true
+    collapse: true
+    collapse-below: md
+    left:
+      - text: "{{< fa business-time >}} Projects"
+        file: content/projects/index.qmd
+        aria-label: "Projects"
+      - text: "{{< fa book >}} Publications"
+        file: content/pubs/index.qmd
+        aria-label: "Publications"
+      - text: "{{< fa palette >}} Illustrations"
+        file: content/art/index.qmd
+        aria-label: "Art"
+    right:
+      - text: "{{< fa user-tie >}} About Me"
+        file: content/about.qmd
+        aria-label: "About Me"
+      - icon: code-slash
+        href: https://github.com/alice-21/agalic.com/
+        aria-label: "Website's source code"
+      - icon: github
+        href: https://github.com/alice-21/
+        aria-label: "GitHub"
+  
+  ## See https://quarto.org/docs/reference/projects/websites.html#sidebar
+  ## Auto-sidebar: https://quarto.org/docs/websites/website-navigation.html#auto-generation
+  sidebar: false
+  
+  ### Footer ###
+  page-footer:
+    border: true
+    left: 
+      - text: "© 2022-2023, Agalic Rodriguez-Duboc"
+        href: LICENSE.md
+        aria-label: "Website's license"
+    right:
+      - text: "Made with Quarto ♥️"
+        href: https://quarto.org/
+        aria-label: "Quarto's website"
+
+
+from: markdown+emoji
+bibliography: res/refs.bib
+csl: res/apa.csl
+link-citations: true
+
+citation: false
+comments: false
+toc: false
+
+format:
+  html:
+    theme:
+      light: [default, libs/css/light.scss]
+      dark: [libs/css/dark.scss]
+    css: libs/css/style.css
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 300px
+    df-print: paged
+    fig-align: center
+    fig-dpi: 500
+    fig-format: svg
+    # fig-cap-location: bottom
+    anchor-sections: true
+    footnotes-hover: true
+    code-link: true
+    code-copy: hover
+    code-block-bg: true
+    code-overflow: scroll
+    highlight-style:
+      light: libs/highlight-styles/light.theme
+      dark: libs/highlight-styles/dark.theme
+    link-external-newwindow: true
+
+# engine: knitr
+
+# knitr:
+#   opts_chunk:
+#     warning: false
+#     message: false
+#     fig.align: center
+#     dpi: 500
+#     dev: svg
+#     dev.args:
+#       bg: transparent
+#     # R.options:
+#     #   scipen: 999
+
+execute:
+  warning: false
+  message: false
+  cache: false
+  freeze: auto
+
+editor: source

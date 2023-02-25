@@ -1,0 +1,23 @@
+# Projects
+
+image: ../../res/avatar.jpg
+image-alt: "Profile picture of Agalic"
+
+resources: "*/*.pdf"
+
+published-title: "Began Around"
+author-title: "Partners Involved"
+
+toc: true
+number-sections: true
+
+about:
+  template: solana
+  image-width: "0%"
+
+filters:
+  - lightbox
+  # - nutshell
+
+lightbox:
+  match: auto
