@@ -23,9 +23,8 @@ website:
     description: "Molecular and cellular mechanisms of apnea of prematurity at play during cerebellar development"
 
 categories:
-  - "Biostatistics"
+  - "Bioinformatics"
   - "Transcriptomics"
-  - "Data Science"
   - "Cerebellum"
   - "Hypoxia"
   - "RT-qPCR"

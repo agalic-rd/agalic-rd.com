@@ -23,12 +23,10 @@ website:
     description: "Impact of apnea of prematurity on cerebellar development and the long-term functional deficits resulting from it"
 
 categories:
-  - "Biostatistics"
-  - "Transcriptomics"
-  - "Data Science"
+  - "Bioinformatics"
+  - "Immunohistochemistry"
   - "Cerebellum"
   - "Hypoxia"
-  - "RT-qPCR"
 
 # Dirty trick to get some links/buttons
 about:

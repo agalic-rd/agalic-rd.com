@@ -1,0 +1,10 @@
+---
+title: "{{< fa palette >}} Scientific Illustrations"
+# subtitle: "TODO"
+
+listing:
+    type: grid
+    template: gallery.ejs
+    contents: sci-art.yml
+    max-items: 5
+---

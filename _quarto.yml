@@ -62,18 +62,27 @@ website:
         file: content/pubs/index.qmd
         aria-label: "Publications"
       - text: "{{< fa palette >}} Illustrations"
-        file: content/art/index.qmd
-        aria-label: "Art"
+        file: content/sci-art/index.qmd
+        aria-label: "Scientific Illustrations"
     right:
       - text: "{{< fa user-tie >}} About Me"
         file: content/about.qmd
         aria-label: "About Me"
-      - icon: code-slash
-        href: https://github.com/alice-21/agalic.com/
-        aria-label: "Website's source code"
+      # - icon: code-slash
+      #   href: https://github.com/alice-21/agalic.com/
+      #   aria-label: "Website's source code"
+      # - icon: github
+      #   href: https://github.com/alice-21/
+      #   aria-label: "GitHub"
+    tools:
       - icon: github
-        href: https://github.com/alice-21/
-        aria-label: "GitHub"
+        menu:
+          - text: Source Code
+            url:  https://code.com
+            aria-label: "Website's source code"
+          - text: GitHub Profile
+            url:  https://github.com/alice-21/
+            aria-label: "My GitHub Profile"
   
   ## See https://quarto.org/docs/reference/projects/websites.html#sidebar
   ## Auto-sidebar: https://quarto.org/docs/websites/website-navigation.html#auto-generation

@@ -39,6 +39,6 @@ categories:
 
 <hr style="margin-bottom: 30px; margin-top: -12px">
 
-<object data="LARC19.pdf" type="application/pdf" width="100%" height="900">
+<object data="LARC19.pdf" type="application/pdf" width="900" height="1440">
   <p><a href="LARC19.pdf">Link to the PDF</a></p>
 </object>

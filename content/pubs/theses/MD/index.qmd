@@ -69,6 +69,6 @@ categories:
 
 <hr style="margin-bottom: 30px; margin-top: -12px">
 
-<object data="MD Thesis.pdf" type="application/pdf" width="100%" height="900">
+<object data="MD Thesis.pdf" type="application/pdf" width="900" height="900">
   <p><a href="MD Thesis.pdf">Link to the PDF</a></p>
 </object>

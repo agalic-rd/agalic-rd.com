@@ -4,23 +4,6 @@
 image: ../../res/avatar.jpg
 image-alt: "Profile picture of Agalic"
 
-affiliations:
-  - id: dc2n
-    name: "Differenciation, Neural and Neuroencodrine Communication"
-    url: "http://dc2n.labos.univ-rouen.fr/"
-    city: Rouen
-    country: France
-  - id: cbg
-    name: Cancer and Brain Genomics
-    url: "https://irib.univ-rouen.fr/index.php?info=entites&id=69"
-    city: Rouen
-    country: France
-  - id: sanofi
-    name: Sanofi
-    url: https://www.sanofi.com/
-    city: Val-de-Reuil
-    country: France
-
 about:
   id: additional-links
   template: solana
