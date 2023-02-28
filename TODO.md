@@ -7,6 +7,7 @@
 - Fill in descriptions of the projects (Objectives, methods, your contribution, ...)
 - Check categories
 - Add project on vascularisation ?
+- Add Magali project
 - Edit template to add both participating labs & people (authors)
 
 **Publications:**
