@@ -46,11 +46,51 @@ website:
 
 # filters:
 #   - nutshell
+
+listing:
+  - id: art-thesis
+    template: content/sci-art/gallery.ejs
+    contents:
+      - title: Vascularization
+        image: content/sci-art/thesis/Vasc.png
+      - title: Cerebellum & Brain Stem
+        image: content/sci-art/thesis/CBTC.png
+      - title: Cortex
+        image: content/sci-art/thesis/Cortex.png
+    max-items: 3
+  # - id: art-science
+  #   template: content/sci-art/gallery.ejs
+  #   contents:
+  #     - title: TODO
+  #       image: TODO
+  #   max-items: 3
 ---
 
 ::: {.column-page}
 
+:::{.callout-warning}
+Website under construction
+:::
+
 Trained as a general physician and passionate about research, I am currently finalizing my PhD dissertation in the field of cellular
 and molecular neurosciences. My project is focused on cerebellar development and apnea of prematurity.
+
+Love learning new languages (currently speak ...)
+
+I also do art stuff & scientific illustrations
+
+::::{.panel-tabset}
+
+## Illustrations
+
+:::::{#art-thesis}
+:::::
+
+## Art
+
+:::::{#art-science}
+:::::
+
+::::
 
 :::

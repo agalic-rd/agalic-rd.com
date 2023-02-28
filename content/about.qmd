@@ -1,6 +1,6 @@
 ---
 title: "{{< fa user-tie >}} About Me"
-subtitle: '<a href="../res/cv.pdf" class="btn btn-outline-info btn-sm">Check my CV</a>'
+subtitle: '<a href="../res/cv.pdf" class="btn btn-outline-success btn-sm">Check my full CV</a>'
 
 image: ../res/avatar.jpg
 image-alt: "Profile picture of Agalic"
@@ -25,7 +25,7 @@ website:
 
 ## {{< fa location-dot >}} Location
 
-Office ???, [DC2N](http://dc2n.labos.univ-rouen.fr/), Mont-Saint-Aignan, France.
+Office 302, [DC2N](http://dc2n.labos.univ-rouen.fr/), Mont-Saint-Aignan, France.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1296.663026733685!2d1.0702853884011896!3d49.459453607089706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e0dded973b5933%3A0x639b9172b0d013aa!2sCURIB!5e0!3m2!1sen!2sfr!4v1677340398785!5m2!1sen!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 

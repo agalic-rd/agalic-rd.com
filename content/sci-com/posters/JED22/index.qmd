@@ -1,10 +1,11 @@
 ---
 title: "Apnea of Prematurity induces molecular, cellular, and vascular alterations in the murine cerebellum: focusing on angiogenesis"
-subtitle: "Poster presented at the JED 2022 conference"
-date: 2022-09-01
+subtitle: "NBISE Doctoral Days"
+date: 2022-09-01 # TODO
 
 author:
   - name: "Agalic Rodriguez-Duboc"
+    orcid: 0000-0002-2084-3780
 
 image: feature.png
 image-alt: "TODO"
@@ -19,14 +20,6 @@ abstract: |
   Our results indicate that IH induces stronger modifications of OS-related gene expression than continuous hypoxia, highlighting that the severity of the alteration is linked to the number of reoxygenation events. Indeed, we observed that, after IH, genes involved in ROS production are overexpressed while genes encoding antioxidant enzymes are underexpressed. These alterations could induce a failure of the defense system against ROS and, in turn, be responsible for neuronal death in the cerebellum. Interestingly, we also found that the expression of genes coding for several cytoskeleton-associated proteins is altered after IH. This suggests that IH could modify the phenotype of various neurons and contribute to histological defects.
 
   Taken together, our data indicate that, in terms of OS, AoP seems to be more deleterious than a single hypoxic episode. The alterations in the OS defense system and the neuronal phenotype could contribute to the neurodevelopmental disorders observed in human newborns. This work participates in understanding the underlying mechanisms of hypoxic cerebellar injury. In the long term, it could lead to the identification of novel therapeutic targets to address this socially and economically relevant health issue.
-
-website:
-  open-graph:
-    image: feature.png
-    description: "TODO"
-  twitter-card:
-    image: feature.png
-    description: "TODO"
 
 categories:
   - Transcriptomics

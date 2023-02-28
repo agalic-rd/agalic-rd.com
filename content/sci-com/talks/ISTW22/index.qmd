@@ -1,0 +1,29 @@
+---
+title: "Cellular and molecular alterations induced by Apnea of Prematurity in the murine cerebellum"
+subtitle: "ISTW Disabilities and Integration"
+date: 2022-01-13
+
+author:
+  - name: "Agalic Rodriguez-Duboc"
+    orcid: 0000-0002-2084-3780
+
+image: feature.png
+image-alt: "TODO"
+
+description: "TODO"
+
+abstract: |
+  TODO
+
+categories:
+  - "Molecular Neurosciences"
+  - "Neurodevelopment"
+  - "Cerebellum"
+  - "Apnea of Prematurity"
+---
+
+<hr style="margin-bottom: 30px; margin-top: -12px">
+
+<object data="ISTW22.pdf" type="application/pdf" width="900" height="600">
+  <p><a href="ISTW22.pdf">Link to the slides (PDF)</a></p>
+</object>

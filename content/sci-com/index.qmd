@@ -1,0 +1,31 @@
+---
+title: "{{< iconify file-icons keynote >}} Scientific Communications"
+subtitle: "A list of my Posters & Talks"
+
+listing:
+  - id: sci-com-talks
+    contents: "talks/*/*.qmd"
+    fields: [image, date, title, subtitle, description, categories]
+    categories: numbered
+    date-format: medium
+    sort: [date desc, title desc]
+    page-size: 3
+  - id: sci-com-posters
+    type: grid
+    contents: "posters/*/*.qmd"
+    fields: [image, date, title, subtitle, description, categories]
+    categories: numbered
+    date-format: medium
+    sort: [date desc, title desc]
+    page-size: 3
+---
+
+## {{< iconify carbon group-presentation >}} Talks
+
+:::{#sci-com-talks}
+:::
+
+## {{< fa chalkboard-user >}} Posters
+
+:::{#sci-com-posters}
+:::

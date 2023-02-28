@@ -1,13 +1,14 @@
 ---
 title: "Psychological factors associated with nicotine addiction in college students"
 subtitle: "Medical Thesis"
-date: 2017-04-01
+date: 2017-04-17
 
-author:
+author: 
   - name: "Agalic Rodriguez-Duboc"
+    orcid: 0000-0002-2084-3780
 
 image: feature.png
-image-alt: "TODO"
+image-alt: "Figure illustrating the dopamine pathways in the human brain"
 
 description: "TODO"
 
@@ -55,16 +56,12 @@ abstract: |
   dimensions of addiction and the psychological factors. Further research will be 
   profitable to the understanding of these results.
 
-website:
-  open-graph:
-    image: feature.png
-    description: "TODO"
-  twitter-card:
-    image: feature.png
-    description: "TODO"
-
 categories:
   - Addiction
+  - Dopamine circuit
+  - Impulsivity
+  - Depression
+  - Anxiety
 ---
 
 <hr style="margin-bottom: 30px; margin-top: -12px">

@@ -12,7 +12,6 @@ listing:
     sort: [date desc, title desc]
     max-items: 2
   - id: pubs-articles
-    # type: grid
     contents: "articles/*/*.qmd"
     fields: [image, date, title, author, subtitle, description, categories]
     categories: numbered
@@ -21,27 +20,14 @@ listing:
     max-items: 3
     filter-ui: true
     sort-ui: [date, title]
-  - id: pubs-posters
-    type: grid
-    contents: "posters/*/*.qmd"
-    fields: [image, date, title, subtitle, description, categories]
-    categories: numbered
-    date-format: medium
-    sort: [date desc, title desc]
-    max-items: 3
 ---
 
-# Theses
+## {{< iconify map university >}} Theses
 
 :::{#pubs-theses}
 :::
 
-# Articles
+## {{< ai pubmed >}} Articles
 
 :::{#pubs-articles}
-:::
-
-# Posters
-
-:::{#pubs-posters}
 :::

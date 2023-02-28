@@ -14,3 +14,13 @@ affiliations:
     url: https://www.sanofi.com/
     city: Val-de-Reuil
     country: France
+  - id: litis
+    name: "Laboratoire d'Informatique, de Traitement de l'Information et des Systèmes"
+    url: "https://www.litislab.fr/"
+    city: Saint-Etienne-du-Rouvray
+    country: France
+  - id: univ-rouen
+    name: "University of Rouen-Normandie"
+    url: "https://www.univ-rouen.fr/"
+    city: Rouen
+    country: France

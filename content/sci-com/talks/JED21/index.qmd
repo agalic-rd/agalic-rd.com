@@ -1,0 +1,58 @@
+---
+title: "Therapeutic potential of neurotrophic factors on cellular and molecular alterations induced by Apnea of Prematurity in the murine cerebellum"
+subtitle: "NBISE Doctoral Days"
+date: 2021-05-18
+
+author:
+  - name: "Agalic Rodriguez-Duboc"
+    orcid: 0000-0002-2084-3780
+
+image: feature.png
+image-alt: "TODO"
+
+description: "TODO"
+
+abstract: |
+  Perinatal hypoxia is a leading cause of morbimortality worldwide. Up to 40% of newborns
+  who experience oxygen deprivation suffer long term neurological impairment. The impact of
+  a hypoxic brain injury has been well investigated; however, despite its functional importance
+  and immaturity at birth, the involvement of the cerebellum remains poorly understood.
+
+  This work aims at shedding light on the mechanisms underlying cerebellar hypoxic injury. To
+  this end, we developed an intermittent hypoxia (IH) protocol, consisting of repeated 2-minute
+  cycles of hypoxia-reoxygenation (including 20 seconds at 5% O2) between P2 and P12 during
+  6 hours per day, which constitutes a valid model of Apnea of Prematurity (AoP). Histological
+  studies following this protocol revealed a delay in cerebellar maturation post-IH. Moreover,
+  compared to the controls, these mice presented long-term alterations in functions linked to the
+  cerebellum such as learning and motor skills. Preliminary findings have shown that, after IH,
+  genes involved in reactive oxygen species production are overexpressed while genes encoding
+  antioxidant enzymes are underexpressed. These alterations suggest a failure of the defense
+  system against ROS and could be responsible for neuronal death in the cerebellum.
+
+  Based on these first results, we performed a transcriptomic study (by RT-qPCR) of genes
+  involved in cell differentiation and migration. We analyzed the expression of these genes in
+  different developmental stages (P4, P8, P12 and P21) and in different cell types by using laser
+  capture microdissection to separate cerebellar layers. This enabled us to pinpoint a potential
+  timeframe of vulnerability; indeed, at P8, IH cerebella displayed the most downregulated
+  genes, which was progressively reverted at later stages. Moreover, we identified several
+  pathways involved in the pathophysiology of AoP such as “synapse formation” and
+  “cytoskeletal scaffold” in neurons and “myelination” in oligodendrocytes. This indicates that
+  IH could modify the phenotype of various cells and contribute to the observed histological
+  and behavioral deficits.
+
+  The project provides elements to better understand the cellular and molecular aspects of AoP-induced cerebellar injury. 
+  In the long term, it could lead to the identification of novel therapeutic targets to address this socially and economically relevant health issue.
+
+categories:
+  - "Cerebellum"
+  - "Apnea of Prematurity"
+  - "Neurotrophic Factors"
+  - "Cell Differentiation"
+  - "Synaptic Activity"
+---
+
+<hr style="margin-bottom: 30px; margin-top: -12px">
+
+<object data="JED21.pdf" type="application/pdf" width="900" height="600">
+  <p><a href="JED21.pdf">Link to the slides (PDF)</a></p>
+</object>

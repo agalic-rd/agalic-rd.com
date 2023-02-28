@@ -1,0 +1,28 @@
+---
+title: "Cellular, molecular and vascular alterations induced by apnea of prematurity in the murine cerebellum"
+subtitle: "Doctoral Thesis"
+date: 2023-05-23
+
+author:
+  - name: "Agalic Rodriguez-Duboc"
+    orcid: 0000-0002-2084-3780
+
+image: feature.png
+image-alt: "TODO"
+
+description: "TODO"
+
+abstract: TODO
+
+categories:
+  - Neurodevelopment
+  - Cerebellum
+  - Apnea of Prematurity
+  - Transcriptomics
+---
+
+<hr style="margin-bottom: 30px; margin-top: -12px">
+
+<!-- <object data="PhD Thesis.pdf" type="application/pdf" width="900" height="900">
+  <p><a href="PhD Thesis.pdf">Link to the PDF</a></p>
+</object> -->

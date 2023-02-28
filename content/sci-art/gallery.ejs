@@ -1,28 +1,23 @@
 ```{=html}
 
-<% for (const item of items) { %>
-<h2><%- item.category %></h2>
-<p><%- item.description %></p>
 <div class="list grid" style="column-gap: 10px;">
-<% for (const tile of item.tiles) { %>
-  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" <%= metadataAttrs(tile) %>>
-    <div class="card-header py-1 px-2 border-bottom border-1 bg-light">
+  <% for (const item of items) { %>
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" <%= metadataAttrs(item) %>>
+    <div class="card-header py-1 px-2 border-bottom border-1 bg-light listing-title">
       <small class="card-text text-nowrap inline-block">
-        <%= tile.title %>
+        <%= item.title %>
       </small>
-<!--       <% if (tile.code) { %> 
-      <a href="<%- tile.code %>" title="View source code" 
-        class="source-code card-text float-end inline-block">
-        <i class="bi-code-slash"></i>
-      </a>
-      <% } %>  -->
     </div>
-    <a href="<%- tile.href %>">
-      <img src="<%- tile.thumbnail %>" alt="<%- tile.description %>" class="card-img-top"/>
-    </a>    
+    <a href="<%- item.href %><%- item.image %>" class="lightbox" data-gallery="default" title="<%= item.title %>">
+      <img src="<%- item.image %>" class="img-fluid figure-img" alt="An illustration of the <%= item.title %>" style="aspect-ratio: 1; object-fit: contain;"> <!-- mix-blend-mode: color-burn; -->
+    </a>
   </div>
 <% } %>
 </div>
-<% } %>
 
+<!-- Splitting the galleries by sections of the listing -->
+<script>
+document.querySelectorAll("a[data-gallery='default']").forEach((el) => el.setAttribute("data-gallery", "quarto-lightbox-gallery-" + window.galleryCounter));
+window.galleryCounter += 1;
+</script>
 ```

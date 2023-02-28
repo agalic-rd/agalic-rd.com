@@ -1,10 +1,11 @@
 ---
 title: "Effects of perinatal hypoxia on oxidative stress-related gene expression in the murine cerebellum"
-subtitle: "Poster presented at the LARC 2019 conference"
-date: 2019-09-01
+subtitle: "LARC'19 conference"
+date: 2019-09-01 # TODO
 
 author:
   - name: "Agalic Rodriguez-Duboc"
+    orcid: 0000-0002-2084-3780
 
 image: feature.png
 image-alt: "TODO"
@@ -21,14 +22,6 @@ abstract: |
   Moreover, we conducted immunohistochemical studies to observe the repercussions of these changes within the tissue. Preliminary findings show that the length and volume of vascular segments are decreased after IH. We are now conducting transparisation studies to observe the vasculature in 3D and expect to observe changes in the density and structure of blood vessels in response to IH. These findings could participate in explaining the pathophysiology of AOP.
 
   Our present work provides elements to better understand the vascular aspects of AOP-induced cerebellar injury and could lead to novel targets to address this socio-economically relevant health issue.
-
-website:
-  open-graph:
-    image: feature.png
-    description: "TODO"
-  twitter-card:
-    image: feature.png
-    description: "TODO"
 
 categories:
   - Transcriptomics

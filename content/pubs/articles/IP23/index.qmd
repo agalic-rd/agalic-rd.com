@@ -1,7 +1,7 @@
 ---
 title: "Apnea of prematurity induces oxidative stress-mediated transcriptional changes in the murine cerebellum"
-subtitle: "In Preparation"
-# date: 2023-09-06
+subtitle: "*In Preparation*"
+date: 2023-07-01
 
 image: feature.png
 image-alt: "TODO"
@@ -13,12 +13,16 @@ author:
     orcid: 0000-0002-2084-3780
     affiliations:
     - ref: cbg
+  - name: "Marc-Aurèle Rivière"
+    orcid: 0000-0002-5108-3382
+    affiliations:
+      - ref: litis
   - name: "Magali Basille-Duguay"
     affiliations:
       - ref: dc2n
-  - name: "David Vaudry"
+  - name: "Aurélien Debonne"
     affiliations:
-      - ref: cbg
+      - ref: univ-rouen
   - name: "Delphine Burel"
     email: "delphine.burel@univ-rouen.fr"
     affiliations:
@@ -42,8 +46,9 @@ abstract: |
 categories:
   - "Molecular Neurosciences"
   - "Neurodevelopment"
+  - "Cerebellum"
   - "Apnea of Prematurity"
-  - "Hypoxia"
+  - "RT-qPCR"
 
 # citation:
 #   type: article-journal
@@ -60,7 +65,7 @@ categories:
 #   links:
 #     - text: "Download PDF"
 #       icon: file-pdf
-#       url: /content/pubs/CB22/CB22.pdf
+#       url: /content/pubs/IP23/IP23.pdf
 #       aria-label: "See the article's PDF"
 #     - text: "Data & Analyses"
 #       icon: github
@@ -70,6 +75,6 @@ categories:
 
 <hr style="margin-bottom: 30px; margin-top: -12px">
 
-<object data="CB22.pdf" type="application/pdf" width="100%" height="900">
-  <p><a href="CB22.pdf">Link to the PDF</a></p>
-</object>
+<!-- <object data="IP23.pdf" type="application/pdf" width="100%" height="900">
+  <p><a href="IP23.pdf">Link to the PDF</a></p>
+</object> -->
