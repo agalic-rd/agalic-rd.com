@@ -19,7 +19,7 @@ website:
   description: "MD & PhD in Developmental Neuroscience ◈ Passionate about Science, Arts, and Books"
   image: res/avatar.jpg
   favicon: res/favicon.png
-  # site-url: 'https://agalic-rd.com'
+  site-url: 'https://agalic-rd.com'
   
   ### Analytics ###
   # google-analytics:
