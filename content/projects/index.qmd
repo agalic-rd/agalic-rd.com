@@ -1,6 +1,6 @@
 ---
-title: "{{< fa business-time >}} Past & Current Projects"
-subtitle: "Research projects I am or have been involved in"
+title: "{{< fa business-time >}} Research Projects"
+subtitle: "Projects I am or have been involved in"
 
 toc: false
 number-sections: false
