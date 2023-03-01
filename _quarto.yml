@@ -69,10 +69,10 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            url:  https://github.com/alice-21/agalic.com
+            url:  https://github.com/agalic-rd/agalic.com
             aria-label: "Website's source code"
           - text: GitHub Profile
-            url:  https://github.com/alice-21/
+            url:  https://github.com/agalic-rd/
             aria-label: "My GitHub Profile"
   
   ### Sidebar ###

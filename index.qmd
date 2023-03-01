@@ -13,7 +13,7 @@ about:
   links:
     - text: "GitHub"
       icon: github
-      url: https://github.com/alice-21/
+      url: https://github.com/agalic-rd/
       rel: "me"
       aria-label: "GitHub"
     - text: "Twitter"
