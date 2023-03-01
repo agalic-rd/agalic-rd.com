@@ -67,12 +67,12 @@ listing:
 
 ::: {.column-page}
 
-Trained as a general physician and passionate about research, I am currently finalizing my PhD dissertation in the field of cellular
-and molecular neurosciences. My project is focused on cerebellar development and apnea of prematurity.
+Trained as a general physician and passionate about **research**, I am currently finalizing my PhD dissertation in the field of cellular
+and **molecular neurosciences**. My project is focused on cerebellar development and apnea of prematurity.
 
-I love learning new languages. I am fluent in English, French, Spanish and currently learning Norwegian and Italian.
+I love learning new **languages**. I am fluent in English, French, Spanish and currently learning Norwegian, Italian and German.
 
-Creativity is at the core of my life! I dabble in all arts and crafts and enjoy doing scientific illustrations for my research.
+**Creativity** is at the core of my life! I dabble in all arts and crafts and enjoy doing **scientific illustrations** for my research.
 
 ::::{.panel-tabset}
 
