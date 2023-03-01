@@ -4,7 +4,6 @@ subtitle: "A list of my publications"
 
 listing:
   - id: pubs-theses
-    type: grid
     contents: "theses/*/*.qmd"
     fields: [image, date, title, subtitle, description, categories]
     categories: numbered
