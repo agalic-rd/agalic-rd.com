@@ -3,8 +3,9 @@ title: "DE-AoP"
 subtitle: "Developmental effects of Apnea of Prematurity"
 date: 2019-08
 
+# Labs
 author:
-  - "[DC2N (Rouen, France)](http://dc2n.labos.univ-rouen.fr/)"
+  - name: "Differenciation, Neural and Neuroencodrine Communication"
 
 image: feature.png
 image-alt: "Circular plot illustrating the impact of the multiple genes tested on several key biological pathways"

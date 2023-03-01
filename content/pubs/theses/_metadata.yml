@@ -1,0 +1,6 @@
+# Pubs/Theses
+
+metadata-files: ["../../_affiliations.yml"]
+
+# Renaming fields
+author-title: "Supervisors"

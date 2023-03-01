@@ -44,9 +44,6 @@ website:
   twitter-card:
     description: "MD & PhD in Developmental Neuroscience ◈ Passionate about Science, Arts, and Books"
 
-# filters:
-#   - nutshell
-
 listing:
   - id: art-thesis
     template: content/sci-art/gallery.ejs
@@ -69,10 +66,6 @@ listing:
 ---
 
 ::: {.column-page}
-
-:::{.callout-warning}
-Website under construction
-:::
 
 Trained as a general physician and passionate about research, I am currently finalizing my PhD dissertation in the field of cellular
 and molecular neurosciences. My project is focused on cerebellar development and apnea of prematurity.

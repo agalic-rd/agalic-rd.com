@@ -1,15 +1,17 @@
 # Projects
 
+# Default image for all pubs
 image: ../../res/avatar.jpg
 image-alt: "Profile picture of Agalic"
 
-# Renaming categories
-published-title: "Began Around"
-author-title: "Partners Involved"
+# Renaming fields
+published-title: "When"
+author-title: "Labs"
 
 toc: true
 number-sections: true
 
+# Dirty trick to get some links/buttons
 about:
   template: solana
   image-width: "0%"

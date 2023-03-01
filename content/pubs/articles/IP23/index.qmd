@@ -6,8 +6,6 @@ date: 2023-07-01
 image: feature.png
 image-alt: "TODO"
 
-metadata-files: ["../../../_affiliations.yml"]
-
 author:
   - name: "Agalic Rodriguez-Duboc"
     orcid: 0000-0002-2084-3780

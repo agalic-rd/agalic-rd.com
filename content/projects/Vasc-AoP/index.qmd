@@ -3,8 +3,9 @@ title: "Vasc-AoP"
 subtitle: "Effects of Apnea of Prematurity on vascularization"
 date: 2024-05
 
+# Labs
 author:
-  - "[DC2N (Rouen, France)](http://dc2n.labos.univ-rouen.fr/)"
+  - name: "Cancer and Brain Genomics"
 
 image: feature.png
 image-alt: "Light sheet microscopy of the vascular network in a P8 mouse"
@@ -15,10 +16,10 @@ abstract: |
   This study aimed to identify the effects of AoP on cerebellar vascular development, and to demonstrate that the cerebellum is vulnerable to AoP. This was shown via immunohistochemistry studies and RT-qPCR. Results confirmed the presence of alterations in gene expression. This was further assessed through visible changes in blood vessel density via immunocytochemistry. Furthermore, transparisation studies are underway to observe these change in situ and in 3D.
 
 categories:
-  - "RT-qPCR"
-  - "Vascularisation"
   - "Cerebellum"
+  - "Vascularisation"
   - "Hypoxia"
+  - "RT-qPCR"
   - "Transparisation"
   - "Immunohistochemistry"
 

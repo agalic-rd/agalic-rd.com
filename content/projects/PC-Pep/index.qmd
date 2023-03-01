@@ -3,8 +3,9 @@ title: "PC-Pep"
 subtitle: "Neuropeptides and receptor expression during Purkinje cell development"
 date: 2019-11
 
+# Labs
 author:
-  - "[DC2N (Rouen, France)](http://dc2n.labos.univ-rouen.fr/)"
+  - name: "Differenciation, Neural and Neuroencodrine Communication"
 
 image: feature.png
 image-alt: "Peptide-receptor interaction"
@@ -18,9 +19,9 @@ categories:
   - "Molecular Neurosciences"
   - "Neurodevelopment"
   - "Cerebellum"
-  - "Peptide"
+  - "Peptides"
   - "Bioinformatics"
-  - "Purkinje cell"
+  - "Purkinje Cells"
 ---
 
 <hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">

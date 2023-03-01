@@ -3,9 +3,11 @@ title: "Cellular, molecular and vascular alterations induced by apnea of prematu
 subtitle: "Doctoral Thesis"
 date: 2023-05-23
 
+# Supervisors
 author:
-  - name: "Agalic Rodriguez-Duboc"
-    orcid: 0000-0002-2084-3780
+  name: "Delphine Burel"
+  affiliations:
+      - ref: cbg
 
 image: feature.png
 image-alt: "TODO"

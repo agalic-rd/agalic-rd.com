@@ -3,9 +3,9 @@ title: "Psychological factors associated with nicotine addiction in college stud
 subtitle: "Medical Thesis"
 date: 2017-04-17
 
-author: 
-  - name: "Agalic Rodriguez-Duboc"
-    orcid: 0000-0002-2084-3780
+# Supervisors
+author:
+  name: "Zahíra Quiñones de Monegro"
 
 image: feature.png
 image-alt: "Figure illustrating the dopamine pathways in the human brain"
