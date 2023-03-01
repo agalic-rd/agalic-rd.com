@@ -40,9 +40,9 @@ about:
 
 website:
   open-graph:
-    description: "TODO"
+    description: "MD & PhD in Developmental Neuroscience ◈ Passionate about Science, Arts, and Books"
   twitter-card:
-    description: "TODO"
+    description: "MD & PhD in Developmental Neuroscience ◈ Passionate about Science, Arts, and Books"
 
 # filters:
 #   - nutshell

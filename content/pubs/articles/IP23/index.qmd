@@ -59,21 +59,9 @@ categories:
 #   volume: 12
 #   issue: 1
 #   issn: "2045-3701"
-
-# Dirty trick to get some links/buttons
-# about:
-#   links:
-#     - text: "Download PDF"
-#       icon: file-pdf
-#       url: /content/pubs/IP23/IP23.pdf
-#       aria-label: "See the article's PDF"
-#     - text: "Data & Analyses"
-#       icon: github
-#       url: https://ma-riviere.github.io/LT-AoP-22/
-#       aria-label: "See the article's data & analyses on GitHub"
 ---
 
-<hr style="margin-bottom: 30px; margin-top: -12px">
+<hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
 
 <!-- <object data="IP23.pdf" type="application/pdf" width="100%" height="900">
   <p><a href="IP23.pdf">Link to the PDF</a></p>

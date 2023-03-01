@@ -30,8 +30,8 @@ categories:
   - RT-qPCR
 ---
 
-<hr style="margin-bottom: 30px; margin-top: -12px">
+<hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
 
-<object data="JED22.pdf" type="application/pdf" width="900" height="1440">
+<object data="JED22.pdf" type="application/pdf" width="100%" height="1440">
   <p><a href="JED22.pdf">Link to the PDF</a></p>
 </object>

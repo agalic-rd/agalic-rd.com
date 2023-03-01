@@ -22,9 +22,24 @@ categories:
   - "Bioinformatics"
   - "Transcriptomics"
   - "RT-qPCR"
+
+# Dirty trick to get some links/buttons
+about:
+  links:
+    - text: "Talk"
+      icon: file-pdf
+      url: content/sci-com/talks/JED21/
+      aria-label: "Link to the page of a talk about this project"
+    - text: "Poster"
+      icon: file-pdf
+      url: content/sci-com/posters/LARC19/
+      aria-label: "Link to the page of a poster about this project"
+    - text: "Article (in progress)"
+      icon: file-pdf
+      url: content/pubs/articles/IP23/
+      aria-label: "Link to the page of the main publication of this project"
 ---
 
-<hr style="margin-bottom: 30px; margin-top: -12px">
+<hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
 
 ![](feature.png){.preview-image fig-alt="Image illustrating the project"}
-
