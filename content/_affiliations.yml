@@ -24,3 +24,8 @@ affiliations:
     url: "https://www.univ-rouen.fr/"
     city: Rouen
     country: France
+  - id: pucmm
+    name: "Pontificia Universidad Católica Madre y Maestra"
+    url: "https://pucmm.edu.do/"
+    city: Santiago de los Caballeros
+    country: Dominican Republic

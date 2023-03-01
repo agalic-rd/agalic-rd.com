@@ -6,6 +6,8 @@ date: 2017-04-17
 # Supervisors
 author:
   name: "Zahíra Quiñones de Monegro"
+  affiliations:
+      - ref: pucmm
 
 image: feature.png
 image-alt: "Figure illustrating the dopamine pathways in the human brain"
