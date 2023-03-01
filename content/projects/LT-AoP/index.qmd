@@ -25,12 +25,14 @@ categories:
 # Dirty trick to get some links/buttons
 about:
   links:
+    - text: "{{< iconify carbon group-presentation >}} Talk"
+      url: content/sci-com/talks/ISTW22/
+      aria-label: "Link to the page of a talk about this project"
     - text: "Article"
       icon: file-pdf
-      url: https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-022-00869-5
-      aria-label: "See a journal article illustrating the project"
-    - text: "Documentation"
-      icon: globe
+      url: content/pubs/articles/CB22/
+      aria-label: "Link to the page of the main publication of this project"
+    - text: "{{< fa arrow-up-right-from-square >}} Documentation"
       url: https://ma-riviere.github.io/LT-AoP-22/
       aria-label: "See the website documenting the project's data and code"
     - text: "Code"
@@ -39,7 +41,7 @@ about:
       aria-label: "See the GitHub repository hosting the code of the project and related paper"
 ---
 
-<hr style="margin-bottom: 30px; margin-top: -12px">
+<hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
 
 ![](feature.png){.preview-image fig-alt="Image illustrating the project"}
 

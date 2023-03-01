@@ -3,8 +3,7 @@
 image: ../../res/avatar.jpg
 image-alt: "Profile picture of Agalic"
 
-resources: "*/*.pdf"
-
+# Renaming categories
 published-title: "Began Around"
 author-title: "Partners Involved"
 

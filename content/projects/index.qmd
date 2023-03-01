@@ -6,12 +6,11 @@ toc: false
 number-sections: false
 
 listing:
-  contents: "*.{md,qmd,Rmd}"
+  contents: "*.qmd"
   fields: [image, title, subtitle, description, categories]
   categories: numbered
   date-format: medium
   sort: [title]
-  max-items: 5
   filter-ui: true
   sort-ui: [date, title]
 ---

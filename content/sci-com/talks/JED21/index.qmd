@@ -40,8 +40,9 @@ abstract: |
   IH could modify the phenotype of various cells and contribute to the observed histological
   and behavioral deficits.
 
-  The project provides elements to better understand the cellular and molecular aspects of AoP-induced cerebellar injury. 
-  In the long term, it could lead to the identification of novel therapeutic targets to address this socially and economically relevant health issue.
+  The project provides elements to better understand the cellular and molecular aspects of 
+  AoP-induced cerebellar injury. In the long term, it could lead to the identification of novel 
+  therapeutic targets to address this socially and economically relevant health issue.
 
 categories:
   - "Cerebellum"
@@ -51,8 +52,8 @@ categories:
   - "Synaptic Activity"
 ---
 
-<hr style="margin-bottom: 30px; margin-top: -12px">
+<hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
 
-<object data="JED21.pdf" type="application/pdf" width="900" height="600">
+<object data="JED21.pdf" type="application/pdf" width="100%" height="600">
   <p><a href="JED21.pdf">Link to the slides (PDF)</a></p>
 </object>

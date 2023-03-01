@@ -23,22 +23,14 @@ categories:
   - "Immunohistochemistry"
 
 # Dirty trick to get some links/buttons
-# about:
-#   links:
-#     - text: "Article"
-#       icon: file-pdf
-#       url: https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-022-00869-5
-#       aria-label: "See a journal article illustrating the project"
-#     - text: "Documentation"
-#       icon: globe
-#       url: https://ma-riviere.github.io/LT-AoP-22/
-#       aria-label: "See the website documenting the project's data and code"
-#     - text: "Code"
-#       icon: github
-#       url: https://doi.org/10.5281/zenodo.6480947
-#       aria-label: "See the GitHub repository hosting the code of the project and related paper"
+about:
+  links:
+    - text: "Poster"
+      icon: file-image
+      url: content/sci-com/posters/JED22/
+      aria-label: "Link to the page of a poster about this project"
 ---
 
-<hr style="margin-bottom: 30px; margin-top: -12px">
+<hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
 
 ![](feature.png){.preview-image fig-alt="Image illustrating the project"}

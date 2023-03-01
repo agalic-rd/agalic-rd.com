@@ -75,13 +75,16 @@ citation:
 # Dirty trick to get some links/buttons
 about:
   links:
+    - text: "{{< ai springer >}} Article (online)"
+      url: https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-022-00869-5
+      aria-label: "Link to the online version of the article"
     - text: "Data & Analyses"
       icon: github
       url: https://ma-riviere.github.io/LT-AoP-22/
       aria-label: "See the article's data & analyses on GitHub"
 ---
 
-<hr style="margin-bottom: 30px; margin-top: -12px">
+<hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
 
 <object data="CB22.pdf" type="application/pdf" width="100%" height="900">
   <p><a href="CB22.pdf">Link to the PDF</a></p>
@@ -92,6 +95,6 @@ about:
 We also made a [website](https://ma-riviere.github.io/LT-AoP-22/) documenting and showcasing the project's data, analyses, and results:
 
 <details>
-  <summary>Click to see a preview of the documentation</summary>
+  <summary>Click to see a preview of the analyses</summary>
   <iframe src="https://ma-riviere.github.io/LT-AoP-22/quarto/content/ROS.html" width="100%" height="800"></iframe>
 </details>
