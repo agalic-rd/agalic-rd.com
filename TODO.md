@@ -10,7 +10,6 @@
   * Links towards related content (e.g. illustrations) ?
 - Add descriptions for all files
 - Check categories for all files
-- 22 C.E. ???
 
 **Sci-com:**
 - Add descriptions for posters & talks

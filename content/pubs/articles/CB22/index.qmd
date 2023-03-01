@@ -62,9 +62,9 @@ categories:
 
 citation:
   type: article-journal
+  issued: "2022-09-06"
   container-title: "Cell & Bioscience"
   container-title-short: "Cell Biosci"
-  doi: 10.1186/s13578-022-00869-5
   url: https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-022-00869-5
   volume: 12
   issue: 1
