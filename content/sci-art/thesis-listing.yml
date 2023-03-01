@@ -1,4 +1,4 @@
-- title: Audition
+- title: Labyrinth 
   image: thesis/Audition.png
 - title: Brain
   image: thesis/Brain.png
@@ -6,35 +6,37 @@
   image: thesis/CB.png
 - title: Cerebellum & Brain Stem
   image: thesis/CBTC.png
-- title: Chemoreceptors
+- title: Peripheral Chemoreceptors
   image: thesis/Chemo.png
-- title: Cortex
+- title: Cerebellar Cortex
   image: thesis/Cortex.png
-- title: DCN
+- title: Deep Cerebellar Nuclei
   image: thesis/DCN.png
-- title: Disc
+- title: Trilaminar Disc Development
   image: thesis/Disc.png
-- title: Dvpmt
+- title: Cerebellar Foliation
   image: thesis/Dvpmt.png
-- title: Eye
+- title: Eye 
   image: thesis/Eye.png
-- title: Foldingcb
+- title: Cerebellar Anlage
   image: thesis/Foldingcb.png
 - title: Newborn brain
   image: thesis/Newborn.png
-- title: Rhombo
+- title: Rhombomeres
   image: thesis/Rhombo.png
-- title: RLVZV2
+- title: Rhombic lip and Ventricular zone
   image: thesis/RLVZV2.png
 - title: Mouse brain
   image: thesis/Souris.png
-- title: Cerebellum Unrolled
+- title: Cerebellar Lobes
   image: thesis/Unrolled.png
-- title: Vascular System
+- title: Venous drainage of the cerebellum
   image: thesis/Vasc.png
-- title: Vascemb
+- title: Vascular Development
   image: thesis/Vascemb.png
-- title: Vesicles
+- title: Neural Tube Vesicles
   image: thesis/Vesicles.png
-- title: Zebrin
+- title: Zebrin Zones
   image: thesis/Zebrin.png
+- title: Arterial irrigation of the cerebellum
+  image: thesis/Arteries.png

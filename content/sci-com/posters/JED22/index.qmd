@@ -10,7 +10,7 @@ author:
 image: feature.png
 image-alt: "TODO"
 
-description: "TODO"
+description: "Intermittent hypoxia in the cerebellum is correlated with changes in the expression of angiogenesis-related genes and in the establishment of the cerebellar vascular network."
 
 abstract: |
   Apnea of Prematurity (AOP) is a cause of perinatal hypoxia and up to 50% of premature newborns are affected. The link between persistent AOP and long-term neurological impairment has been established and the impact of hypoxic brain injuries has been investigated. However, despite its functional importance and immaturity at birth, the involvement of the cerebellum remains poorly understood.

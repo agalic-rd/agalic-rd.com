@@ -10,7 +10,7 @@ author:
 image: feature.png
 image-alt: "TODO"
 
-description: "TODO"
+description: "Our research shows that the oxidative stress-related damage to the cerebellum is greater with repeated episodes of hypoxia-reoxygenation."
 
 abstract: |
   Perinatal hypoxia is a leading cause of morbimortality worldwide. Up to 40% of newborns who experience oxygen deprivation suffer long term neurological impairment. The impact of a hypoxic brain injury has been well investigated; however, despite its functional importance and immaturity at birth, the involvement of the cerebellum remains poorly understood.

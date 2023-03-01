@@ -48,20 +48,20 @@ listing:
   - id: art-thesis
     template: content/sci-art/gallery.ejs
     contents:
-      - title: Vascularization
+      - title: Venous drainage of the cerebellum
         image: content/sci-art/thesis/Vasc.png
       - title: Cerebellum & Brain Stem
         image: content/sci-art/thesis/CBTC.png
-      - title: Cortex
+      - title: Cerebellar Cortex
         image: content/sci-art/thesis/Cortex.png
   - id: art-drawings
     template: content/sci-art/gallery.ejs
     contents:
-      - title: Brain
+      - title: The tree of life
         image: content/sci-art/drawings/Brain.png
-      - title: Heart
+      - title: In a heartbeat
         image: content/sci-art/drawings/Heart.png
-      - title: Kidneys
+      - title: Mortui vivos docent
         image: content/sci-art/drawings/Skeleton.png
 ---
 

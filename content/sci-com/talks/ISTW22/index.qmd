@@ -10,10 +10,72 @@ author:
 image: feature.png
 image-alt: "Periventricular Leukomalacia (Case courtesy of Hani Makky Al Salam, Radiopaedia.org, rID: 14000)"
 
-description: "TODO"
+description: "Apnea of prematurity is responsible for long lasting neurological impairments and measures are insufficient to treat and understand this disability-causing phenomenon."
 
 abstract: |
-  TODO
+  Hypoxia occurs when the demand of O2 exceeds the supply. One type of perinatal hypoxia is AoP, which is defined by breathing cessation episodes lasting over 20 seconds, occurring over 5 times per hour and mostly at night.
+  It has been shown that this IH leads to developmental alterations and long-term neurological deficits.
+  In fact, perinatal hypoxia is a leading cause of morbimortality worldwide, it occurs in over 50% of premature births under 32 weeks of gestation and leads to 10% of mortality. 
+  Moreover, up to 40% of the newborns who experience oxygen deprivation will show some form of disability.
+
+  So, what does this intermittent hypoxia have to do with the nervous system?
+  In the brain, the effects of a variation of oxygen are relatively well studied and it has been shown to cause anatomical alterations including periventricular white matter lesions, and this is especially true of premature newborns who suffer apnea of prematurity.
+  Thus, the impact of a hypoxic brain injury has been well investigated ; however, only few studies exist regarding the cerebellum.
+
+  But what is the cerebellum?
+  The cerebellum, which is latin for “little brain”, is an important part of the central nervous system.
+  The human cerebellum has the appearance of a separate structure attached to the bottom of the brain, tucked underneath the cerebral hemispheres.
+  It represents only 10% of the mass of human brain yet contains over half its neurons!
+  The cerebellum is also a structure that is late to develop and is immature at birth.
+
+  In fact, despite its functional importance and immaturity at birth, the effect of IH on the cerebellum remains poorly understood. This is especially relevant given the nature of the functions altered in children having suffered  from AoP. Indeed, the cerebellum is not only responsible for motor functions such as balance and coordination, but also handles cognitive and behavioral functions, all of which are susceptible to be altered in children having experienced AoP.
+
+  So, what do we know about the effects of intermittent hypoxia in the cerebellum?
+  Studies in hypoxic mice have shown histological effects where there is a difference in the myelin sheath in the nervous tissue.
+  Likewise, at the cellular level there is a decrease in synaptic communication which could explain some of the cognitive effects.
+
+  The mouse model is particularly interesting to study perinatal hypoxia due to the correspondence of cerebellar developmental stages. 
+  The perinatal period in humans spans from the 26th gestational week to the 8th postnatal day.
+  This corresponds to post-natal stages, noted P, in mice which facilitates experimentation.
+
+  To further understand AoP, we developed an intermittent hypoxia (IH) protocol, consisting of cycles of hypoxia-reoxygenation during 6 hours per day between P2 and P12. Each cycle lasts 2- minute (including 20 seconds at 5% O2) which constitutes a valid model of Apnea of Prematurity (AoP). The control groups were kept in the same conditions but with normal O2 to account for environmental stressors.
+
+  In order to better understand the impact of O2 deprivation on the cerebellum, several IH studies have been conducted in rodents. One critical finding is that IH causes OS.
+  Chiu et al. observed an increase in ROS ( or reactive oxygen species), in vitro in granule cell cultures from P7 rats.
+  These results were corroborated within our team. We demonstrated that there was an accumulation of ROS has been shown in vivo in P12 mice. 
+
+  Histological studies at P12 following this protocol revealed a delay in cerebellar maturation post IH. Indeed, the EGL, where proliferation of neuronal progenitors occurs, is thicker. Whereas, the ML, PC and IGL are decreased, showing a delay in both normal migration and differentiation. Moreover, compared to the controls, these mice presented a stunted development of PC, which are key cells in the CNS.
+
+  Moreover, compared to the controls, these mice presented long-term alterations in functions linked to the cerebellum such as learning and motor skills. Indeed, pups having experienced IH were slower to get upright than the controls. And these coordination deficits persisted well into adulthood, when these mice presented a more meandering and inefficient trajectory in the Morris pool test.
+
+  To further understand the mechanisms underlying cerebellar hypoxic injury our goals are to determine the cellular and molecular basis for the effects we observed. Focusing on genetic expression we aim at understanding how transcriptomic regulations in the cerebellum:
+  -	Can alter the differentiation of brain cells
+  -	Can modify synaptic communication
+  -	Can induce changes in vascularization
+
+  The cerebellar cortex is made up of several layers of different cell types with specific functions.
+  As such, we aimed to observe the effects of IH on each of these and at different developmental stages.
+
+  Laser capture microdissection enabled us to separate the cells or layers in slices of frozen tissue. This was followed by quantitative PCR to analyze the expression of genes in different developmental stages (P4, P8, P12 and P21) and in the different cerebellar layers. 
+
+  To select the genes of interest for this project, we used bioinformatic tools and transcriptomic databases to develop a cohesive set of genes involved in cerebellar development.
+
+  We first focused on genes involved in oxidative stress to understand our previous results and found that mice having experienced AoP had an excessive buildup of ROS both due to an excess production and an inefficient antioxidant defense, which in turn led to an increased cell death.
+
+  On this diagram are shown, for each regulated gene, the fold change, grouped by stage and by layer of the cerebellum. These are linked to their main associated pathways to better understand the mechanisms at play. We identified several pathways involved in the pathophysiology of AoP such as:
+  The “Proliferation” pathway is affected, especially in the external layer of granule cells at P8.
+  The “Differentiation” pathway is altered at both P8 and P12. Lower expression of genes involved in the myelin sheath could be the molecular basis for the white matter lesions observed in humans. 
+  Likewise, several genes involved in synapse formation are affected, which may impact neuronal communication.
+  The “Migration” is also impacted, especially in the EGL at P8 and P12.
+  Finally, the lower expression of several genes in charge of promoting cell survival suggest a mechanism for the increase in “cell death” reported.
+
+  Our results show that IH in the cerebellum could modify the shape and function of various cells and contribute to the observed histological, which in turn contributes to explaining the behavioral deficits observed.
+
+  In conclusion, the project provides elements to better understand the cellular and molecular aspects of AoP-induced cerebellar injury.
+  First, via a transcriptomic study of genes involved in differentiation and migration to identify which period and cell type are most vulnerable to IH and later, via an imaging study of cerebellar connections.
+  We now aim to study blood vessels to understand if IH causes changes in vascularization that could contribute to the long-term developmental alterations.
+  In the long run we hope this project provides new perspectives to address this socially and economically relevant health issue. 
+
 
 categories:
   - "Molecular Neurosciences"

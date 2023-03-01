@@ -10,7 +10,7 @@ author:
 image: feature.png
 image-alt: "TODO"
 
-description: "TODO"
+description: "Laser capture microdissection and RT-qPCR enables us to better understand how different cerebellar cell types are affected by our intermittent hypoxia protocol. "
 
 abstract: |
   Perinatal hypoxia is a leading cause of morbimortality worldwide. Up to 40% of newborns
