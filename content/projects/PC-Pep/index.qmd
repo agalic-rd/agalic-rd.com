@@ -1,0 +1,45 @@
+---
+title: "PC-Pep"
+subtitle: "Neuropeptides and receptor expression during Purkinje cell development"
+date: 2019-11
+
+author:
+  - "[DC2N (Rouen, France)](http://dc2n.labos.univ-rouen.fr/)"
+
+image: feature.png
+image-alt: "Peptide-receptor interaction"
+
+description: "This project studied the expression of several neuropeptides and their receptors on Purkinje cells a mouse model of cerebellar development."
+
+abstract: |
+  This study used laser capture microdissection to isolate Purkinje cells of mice at P6, P8, P10, P16. The aim was to identify neuropeptides and their recptors and how this cellular communication evolves through development.
+
+categories:
+  - "Molecular Neurosciences"
+  - "Neurodevelopment"
+  - "Cerebellum"
+  - "Peptide"
+  - "Bioinformatics"
+  - "Purkinje cell"
+
+# Dirty trick to get some links/buttons
+# about:
+#   links:
+#     - text: "Article"
+#       icon: file-pdf
+#       url: https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-022-00869-5
+#       aria-label: "See a journal article illustrating the project"
+#     - text: "Documentation"
+#       icon: globe
+#       url: https://ma-riviere.github.io/LT-AoP-22/
+#       aria-label: "See the website documenting the project's data and code"
+#     - text: "Code"
+#       icon: github
+#       url: https://doi.org/10.5281/zenodo.6480947
+#       aria-label: "See the GitHub repository hosting the code of the project and related paper"
+---
+
+<hr style="margin-bottom: 30px; margin-top: -12px">
+
+![](feature.png){.preview-image fig-alt="Image illustrating the project"}
+

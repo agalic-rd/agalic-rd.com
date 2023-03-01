@@ -8,7 +8,7 @@ author:
     orcid: 0000-0002-2084-3780
 
 image: feature.png
-image-alt: "TODO"
+image-alt: "Periventricular Leukomalacia (Case courtesy of Hani Makky Al Salam, Radiopaedia.org, rID: 14000)"
 
 description: "TODO"
 

@@ -3,6 +3,8 @@
 image: ../../res/avatar.jpg
 image-alt: "Profile picture of Agalic"
 
+license: "CC BY-SA"
+
 filters:
   - lightbox
 

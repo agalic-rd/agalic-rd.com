@@ -14,14 +14,6 @@ description: "This project studied the impact of apnea of prematurity on cerebel
 abstract: |
   This study aimed to identify the effects of AoP on cerebellar development, and to demonstrate that the cerebellum is vulnerable to AoP. This was shown via enzymatic assay studies and RT-qPCR. Results confirmed the presence of alterations of cellular mechanisms, such as oxidative stress, leading to a delay in cerebellar maturation. This was further assessed through visible changes in cellular phenotype and histology via immunocytochemistry. Furthermore, behavioral studies showed that functional and behavioral alterations persisted in adulthood.
 
-website:
-  open-graph:
-    image: feature.png
-    description: "Impact of apnea of prematurity on cerebellar development and the long-term functional deficits resulting from it"
-  twitter-card:
-    image: feature.png
-    description: "Impact of apnea of prematurity on cerebellar development and the long-term functional deficits resulting from it"
-
 categories:
   - "Molecular Neurosciences"
   - "Neurodevelopment"
@@ -51,16 +43,3 @@ about:
 
 ![](feature.png){.preview-image fig-alt="Image illustrating the project"}
 
-# My role in this project
-***
-
-TODO
-
-**1)** Handled the data processing and analysis, for both immunohistochemistry and RT-qPCR data. The code for those analyses was made open-source and registered on [Zenodo](https://doi.org/10.5281/zenodo.6480947), while the results of the project were published in [Cell & Bioscience](https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-022-00869-5).
-
-**2)** Made [a website](https://ma-riviere.github.io/LT-AoP-22/) documenting and showcasing the project's data, analyses, and results. The website uses Quarto and relies on templates to automatically generates documentation for each of the ~70 variables analyzed during the project.
-
-<details>
-  <summary>Click to see a preview of a page of the documentation</summary>
-  <iframe src="https://ma-riviere.github.io/LT-AoP-22/" width="100%" height="800"></iframe>
-</details>

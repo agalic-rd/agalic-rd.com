@@ -1,8 +1,8 @@
 ---
 title: "Agalic Rodriguez-Duboc"
-subtitle: "MD & Molecular Neuroscience PhD candidate interested in Neurodeveloment, Arts, and Books  \n {{< iconify twemoji flag-dominican-republic >}} ▪️ {{< iconify twemoji flag-france >}} ▪️ {{< iconify twemoji flag-united-states >}} ▪ {{< iconify twemoji flag-norway >}}"
+subtitle: "MD & Developmental Neuroscientist  \n PhD candidate in molecular and cellular neurosciences  \n Passionate about Science, Arts, and Books  \n {{< iconify twemoji flag-dominican-republic >}} ▪️ {{< iconify twemoji flag-france >}} ▪️ {{< iconify twemoji flag-united-states >}} ▪ {{< iconify twemoji flag-norway >}}"
 
-description: "PhD Candidate - [Cancer and Brain Genomics lab](https://irib.univ-rouen.fr/index.php?info=entites&id=69)"
+description: "[University of Rouen](https://univ-rouen.fr)  \n [Lab: Cancer and Brain Genomics](https://irib.univ-rouen.fr/index.php?info=entites&id=69)"
 
 image: res/avatar.jpg
 image-alt: "Profile picture of Agalic"

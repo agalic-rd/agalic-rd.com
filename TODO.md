@@ -1,7 +1,5 @@
 **General:**
-- Choose favicon
 - Create Google Analytics
-- Rename GH project to agalic-rd.com
 
 **Projects:**
 - Fill in descriptions of the projects (Objectives, methods, your contribution, ...)
