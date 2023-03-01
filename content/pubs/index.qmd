@@ -1,6 +1,6 @@
 ---
 title: "{{< fa book >}} Scientific Publications"
-# subtitle: "A list of my publications"
+subtitle: "A list of my scientific writings"
 
 listing:
   - id: pubs-theses

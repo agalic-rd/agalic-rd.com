@@ -1,6 +1,6 @@
 ---
 title: "{{< fa palette >}} Art"
-subtitle: "A sample of my artistic poduction"
+subtitle: "A sample of my artistic production"
 
 # Manually implementing lightbox on the listing
 include-in-header:
