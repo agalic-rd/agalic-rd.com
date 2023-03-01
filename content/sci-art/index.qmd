@@ -1,6 +1,6 @@
 ---
 title: "{{< fa palette >}} Art"
-subtitle: "A sample of my artistic poduction" # TODO
+subtitle: "A sample of my artistic poduction"
 
 # Manually implementing lightbox on the listing
 include-in-header:
@@ -21,9 +21,9 @@ listing:
     page-size: 6
   - id: art-drawings
     template: gallery.ejs
-    # contents: drawings-listing.yml
+    contents: drawings-listing.yml
     sort: [title desc]
-    page-size: 3
+    page-size: 6
 ---
 
 ## PhD Thesis

@@ -26,7 +26,7 @@ categories:
 about:
   links:
     - text: "Poster"
-      icon: file-pdf
+      icon: file-image
       url: content/sci-com/posters/JED22/
       aria-label: "Link to the page of a poster about this project"
 ---

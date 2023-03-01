@@ -24,7 +24,7 @@ listing:
 :::{#pubs-theses}
 :::
 
-## {{< ai pubmed >}} Articles
+## {{< fa file-pdf >}} Articles
 
 :::{#pubs-articles}
 :::

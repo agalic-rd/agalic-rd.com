@@ -26,12 +26,11 @@ categories:
 # Dirty trick to get some links/buttons
 about:
   links:
-    - text: "Talk"
-      icon: file-pdf
+    - text: "{{< iconify carbon group-presentation >}} Talk"
       url: content/sci-com/talks/JED21/
       aria-label: "Link to the page of a talk about this project"
     - text: "Poster"
-      icon: file-pdf
+      icon: file-image
       url: content/sci-com/posters/LARC19/
       aria-label: "Link to the page of a poster about this project"
     - text: "Article (in progress)"

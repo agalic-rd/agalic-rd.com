@@ -24,7 +24,7 @@ listing:
 :::{#sci-com-talks}
 :::
 
-## {{< fa chalkboard-user >}} Posters
+## {{< fa file-image >}} Posters
 
 :::{#sci-com-posters}
 :::

@@ -57,13 +57,15 @@ listing:
         image: content/sci-art/thesis/CBTC.png
       - title: Cortex
         image: content/sci-art/thesis/Cortex.png
-    max-items: 3
-  # - id: art-science
-  #   template: content/sci-art/gallery.ejs
-  #   contents:
-  #     - title: TODO
-  #       image: TODO
-  #   max-items: 3
+  - id: art-drawings
+    template: content/sci-art/gallery.ejs
+    contents:
+      - title: Brain
+        image: content/sci-art/drawings/Brain.jpg
+      - title: Heart
+        image: content/sci-art/drawings/Heart.jpg
+      - title: Kidneys
+        image: content/sci-art/drawings/Skeleton.jpg
 ---
 
 ::: {.column-page}
@@ -88,7 +90,7 @@ Creativity is at the core of my life! I dabble in all arts and crafts and enjoy 
 
 ## Art
 
-:::::{#art-science}
+:::::{#art-drawings}
 :::::
 
 ::::
