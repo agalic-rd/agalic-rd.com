@@ -14,7 +14,16 @@ image-alt: "TODO"
 
 description: "TODO"
 
-abstract: TODO
+abstract: |
+  The cerebellum is involved, not only in motor functions such as coordination and equilibrium, but also in cognition and behavior. At birth, the human cerebellar cortex is still immature, making it vulnerable to perinatal events. Perinatal hypoxia is a leading cause of morbimortality worldwide and apnea of prematurity (AoP) occurs in over 50% of preterm infants. A correlation between cerebellar functions and the deficits observed in children having suffered from AoP has been demonstrated, yet the implication for the cerebellum remains poorly understood. 
+
+  This work aims at shedding light on the mechanisms underlying cerebellar hypoxic injury. To this end, we developed an intermittent hypoxia (IH) protocol, consisting of repeated 2-minute cycles of hypoxia-reoxygenation (including 20 seconds at 5% O2) between P2 and P12 during 6 hours per day, which constitutes a valid model of Apnea of Prematurity (AoP). Histological studies following this protocol revealed a delay in cerebellar maturation post-IH. Moreover, compared to the controls, these mice presented long-term alterations in functions linked to the cerebellum such as learning and motor skills. 
+
+  Firstly, we studied oxidative stress and showed that reactive oxygen species (ROS) production increases in mice after IH. IH also induces a significant delay in histogenesis, leading to a decrease in the thickness of the cerebellar cortex layers. This disorganization of the cerebellum is accompanied by deficits in reflex acquisition. We found that genes involved in ROS production are overexpressed while genes encoding antioxidant enzymes are underexpressed. These alterations suggest a failure of the defense system against ROS and could be responsible for neuronal death in the cerebellum. 
+
+  Based on these first results, we performed a transcriptomic study (by RT-qPCR) of genes involved in cell differentiation and migration. We analyzed the expression of these genes in different developmental stages (P4, P8, P12, P21 and P70) and in different cell types by using laser capture microdissection to separate cerebellar layers. This enabled us to pinpoint a potential timeframe of vulnerability; indeed, at P8, IH cerebella displayed the most downregulated genes, which was progressively reverted at later stages. Moreover, we identified several pathways involved in the pathophysiology of AoP such as “synapse formation” and “cytoskeletal scaffold” in neurons and “myelination” in oligodendrocytes. This indicates that IH could modify the phenotype of various cells and contribute to the observed histological and behavioral deficits.
+
+  The project provides elements to better understand the cellular and molecular aspects of AoP-induced cerebellar injury. In the long term, it could lead to the identification of novel therapeutic targets to address this socially and economically relevant health issue.
 
 categories:
   - Neurodevelopment
