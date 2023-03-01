@@ -1,6 +1,6 @@
 ---
 title: "{{< fa palette >}} Art"
-subtitle: "My lovely little art, check it out" # TODO
+subtitle: "A sample of my artistic poduction" # TODO
 
 # Manually implementing lightbox on the listing
 include-in-header:
@@ -28,14 +28,14 @@ listing:
 
 ## PhD Thesis
 
-Digital illustrations I've drawn for my PhD Thesis
+Digital illustrations I have drawn to enrich my PhD Thesis
 
 :::{#art-thesis}
 :::
 
 ## Drawings
 
-Other drawings I've made
+Ink and pencil anatomical drawings I have made
 
 :::{#art-drawings}
 :::
