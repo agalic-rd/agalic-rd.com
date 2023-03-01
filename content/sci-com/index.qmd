@@ -11,7 +11,6 @@ listing:
     sort: [date desc, title desc]
     page-size: 3
   - id: sci-com-posters
-    type: grid
     contents: "posters/*/*.qmd"
     fields: [image, date, title, subtitle, description, categories]
     categories: numbered
