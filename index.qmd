@@ -58,11 +58,11 @@ listing:
     template: content/sci-art/gallery.ejs
     contents:
       - title: Brain
-        image: content/sci-art/drawings/Brain.jpg
+        image: content/sci-art/drawings/Brain.png
       - title: Heart
-        image: content/sci-art/drawings/Heart.jpg
+        image: content/sci-art/drawings/Heart.png
       - title: Kidneys
-        image: content/sci-art/drawings/Skeleton.jpg
+        image: content/sci-art/drawings/Skeleton.png
 ---
 
 ::: {.column-page}
