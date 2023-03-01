@@ -22,8 +22,8 @@ website:
   site-url: 'https://agalic-rd.com'
   
   ### Analytics ###
-  # google-analytics:
-  #   tracking-id: "G-QP3K4HM02B"
+  google-analytics:
+    tracking-id: "G-J4N8PQ8FCW"
   cookie-consent:
     type: implied
   
