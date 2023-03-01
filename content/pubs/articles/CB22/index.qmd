@@ -37,7 +37,7 @@ author:
 
 doi: 10.1186/s13578-022-00869-5
 
-description: "TODO"
+description: "This project validates the use of our in-house device to implement an intermittent hypoxia protocol mimicking apnea of prematurity."
 
 abstract: |
   **Background:** Apnea of prematurity (AOP) is caused by respiratory control immaturity and affects nearly 50% of premature newborns. 

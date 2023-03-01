@@ -12,7 +12,7 @@ author:
 image: feature.png
 image-alt: "Figure illustrating the dopamine pathways in the human brain"
 
-description: "TODO"
+description: "This descriptive study features the analysis of several psychological self assesment scales linking them to the NDSS (Nicotine Dependence Syndrome Scale)."
 
 abstract: |
   **Background:** In the past decade, there has been a significant increase in the 
@@ -30,7 +30,7 @@ abstract: |
   Santiago campus, Dominican Republic, in January-February 2017.
 
   **Methods:** An analytical observational study was conducted on 221 university 
-  students (150 non-smokers y 71 smokers) in PUCMM, Santiago. The survey was 
+  students (150 non-smokers and 71 smokers) in PUCMM, Santiago. The survey was 
   developed through the online platform eSurveycreator. The scales used were: 
   NDSS, HARS, Breve CET-DE, UPPS-P and 3 ad hoc questions to measure the 
   variable of Harm Perception. For the statistical analysis of the collected data,

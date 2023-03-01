@@ -30,7 +30,7 @@ author:
 
 # doi: TODO
 
-description: "TODO"
+description: "This paper aims to present transcriptomic data that participates in understanding the molecular basis for the histological and behavioral abnormalities caused by intermittent hypoxia."
 
 abstract: |
   Perinatal hypoxia is a leading cause of morbimortality worldwide. Up to 40% of newborns who experience oxygen deprivation suffer long term neurological impairment. The impact of a hypoxic brain injury has been well investigated; however, despite its functional importance and immaturity at birth, the involvement of the cerebellum remains poorly understood and has been grossly underestimated.

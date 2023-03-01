@@ -12,7 +12,7 @@ author:
 image: feature.png
 image-alt: "TODO"
 
-description: "TODO"
+description: "This work focuses on the effects of apnea of prematurity on the develompment of the cerebellum in the perinatal period."
 
 abstract: |
   The cerebellum is involved, not only in motor functions such as coordination and equilibrium, but also in cognition and behavior. At birth, the human cerebellar cortex is still immature, making it vulnerable to perinatal events. Perinatal hypoxia is a leading cause of morbimortality worldwide and apnea of prematurity (AoP) occurs in over 50% of preterm infants. A correlation between cerebellar functions and the deficits observed in children having suffered from AoP has been demonstrated, yet the implication for the cerebellum remains poorly understood. 
