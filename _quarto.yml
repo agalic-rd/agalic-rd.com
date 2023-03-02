@@ -6,6 +6,7 @@ project:
     - CNAME
     - "/res/*"
     - "/libs/*"
+    - "/content/**/*.pdf"
   render:
     - "*.qmd"
     - "!TODO.md"
