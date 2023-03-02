@@ -31,5 +31,5 @@ categories:
 <hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
 
 <object data="LARC19.pdf" type="application/pdf" width="100%" height="1440">
-  <iframe src="https://docs.google.com/viewer?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/sci-com/posters/LARC19/LARC19.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
+  <iframe src="https://docs.google.com/preview?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/sci-com/posters/LARC19/LARC19.pdf&embedded=true" style="width:100%; height:1440px;" frameborder="0"></iframe>
 </object>
