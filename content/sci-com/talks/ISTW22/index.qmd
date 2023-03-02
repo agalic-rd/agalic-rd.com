@@ -36,5 +36,5 @@ categories:
 <hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
 
 <object data="ISTW22.pdf" type="application/pdf" width="100%" height="600">
-<p><a href="ISTW22.pdf">Link to the slides (PDF)</a></p>
+  <iframe src="https://docs.google.com/viewer?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/sci-com/talks/ISTW22/ISTW22.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
 </object>
