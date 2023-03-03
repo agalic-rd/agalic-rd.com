@@ -11,6 +11,10 @@ about:
   template: trestles
   image-shape: round
   links:
+    - text: "{{< ai orcid >}} ORCID"
+      url: https://orcid.org/0000-0002-2084-3780
+      rel: "me"
+      aria-label: "ORCID"
     - text: "GitHub"
       icon: github
       url: https://github.com/agalic-rd/
@@ -26,10 +30,6 @@ about:
       url: https://linkedin.com/in/agalic-rd
       rel: "me"
       aria-label: "LinkedIn"
-    - text: "{{< ai orcid >}} ORCID"
-      url: https://orcid.org/0000-0002-2084-3780
-      rel: "me"
-      aria-label: "ORCID"
     - text: "Email"
       icon: envelope
       url: "mailto:agalic.rd+site@gmail.com"

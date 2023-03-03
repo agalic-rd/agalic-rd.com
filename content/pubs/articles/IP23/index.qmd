@@ -1,7 +1,9 @@
 ---
 title: "Apnea of prematurity induces oxidative stress-mediated transcriptional changes in the murine cerebellum"
 subtitle: "*In Preparation*"
-date: 2023-07-01
+
+date: 2023-08-01
+published-title: "To be published by" # TODO: remove after the fact
 
 image: feature.png
 image-alt: "TODO"
@@ -52,6 +54,7 @@ categories:
 #   type: article-journal
 #   container-title: "Cell & Bioscience"
 #   container-title-short: "Cell Biosci"
+#   issued: 2023-12-01
 #   doi: 10.1186/s13578-022-00869-5
 #   url: https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-022-00869-5
 #   volume: 12
@@ -60,6 +63,11 @@ categories:
 ---
 
 <hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
+
+<!-- TODO: remove after the fact -->
+:::{.callout-note}
+This article is currently in preparation and should be submitted in the summer of 2023
+:::
 
 <!-- <object data="IP23.pdf" type="application/pdf" width="100%" height="900">
   <iframe src="https://docs.google.com/viewer?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/pubs/articles/IP23/IP23.pdf&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>

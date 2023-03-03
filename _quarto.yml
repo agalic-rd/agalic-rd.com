@@ -72,9 +72,6 @@ website:
           - text: Source Code
             url:  https://github.com/agalic-rd/agalic-rd.com
             aria-label: "Website's source code"
-          - text: GitHub Profile
-            url:  https://github.com/agalic-rd/
-            aria-label: "My GitHub Profile"
   
   ### Sidebar ###
   sidebar: false
