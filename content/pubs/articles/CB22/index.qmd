@@ -7,21 +7,20 @@ image: feature.png
 image-alt: "TODO"
 
 author:
-  - name: "Sarah Leroux"
-    # orcid: 0000-0000-0000-0000
-    attributes:
-      equal-contributor: true
-    affiliations:
-    - ref: sanofi
   - name: "Agalic Rodriguez-Duboc"
     orcid: 0000-0002-2084-3780
     affiliations:
     - ref: cbg
     attributes:
       equal-contributor: true
+  - name: "Sarah Leroux"
+    attributes:
+      equal-contributor: true
+    affiliations:
+    - ref: sanofi
   - name: "Arnaud Arabo"
     affiliations:
-      - ref: dc2n
+      - ref: srb
   - name: "Magali Basille-Duguay"
     affiliations:
       - ref: dc2n
@@ -76,6 +75,9 @@ about:
     - text: "{{< ai springer >}} Article (online)"
       url: https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-022-00869-5
       aria-label: "Link to the online version of the article"
+    - text: "{{< fa business-time >}} Project (LT-AoP)"
+      file: /content/projects/LT-AoP/
+      aria-label: "Link to the project"
     - text: "{{< fa chart-column >}} Data & Analyses"
       file: content/code/LT-AoP/
       aria-label: "Webpage presenting the data & analyses made for this project"

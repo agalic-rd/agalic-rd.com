@@ -28,6 +28,13 @@ categories:
   - Cerebellum
   - Hypoxia
   - RT-qPCR
+
+# Dirty trick to get some links/buttons
+about:
+  links:
+    - text: "{{< fa business-time >}} Project (Vasc-AoP)"
+      file: /content/projects/Vasc-AoP/
+      aria-label: "Link to the project"
 ---
 
 <hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">

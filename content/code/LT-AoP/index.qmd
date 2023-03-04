@@ -40,9 +40,12 @@ about:
     - text: "{{< fa arrow-up-right-from-square >}} Documentation"
       url: https://ma-riviere.github.io/LT-AoP-22/
       aria-label: "See the website documenting the project's data and code"
-    - text: "Article"
+    - text: "{{< fa business-time >}} Project (LT-AoP)"
+      file: content/projects/LT-AoP/
+      aria-label: "Link to the project"
+    - text: "Article (CB'22)"
       icon: file-pdf
-      url: content/pubs/articles/CB22/
+      file: content/pubs/articles/CB22/
       aria-label: "Link to the page of the main publication of this project"
 
 grid:

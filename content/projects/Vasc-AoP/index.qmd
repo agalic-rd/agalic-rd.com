@@ -26,9 +26,9 @@ categories:
 # Dirty trick to get some links/buttons
 about:
   links:
-    - text: "Poster"
+    - text: "Poster (JED'22)"
       icon: file-image
-      url: content/sci-com/posters/JED22/
+      file: content/sci-com/posters/JED22/
       aria-label: "Link to the page of a poster about this project"
 ---
 

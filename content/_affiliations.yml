@@ -9,6 +9,10 @@ affiliations:
     url: "https://irib.univ-rouen.fr/index.php?info=entites&id=69"
     city: Rouen
     country: France
+  - id: srb
+    name: "Service des Ressources Biologiques"
+    city: Rouen
+    country: France
   - id: sanofi
     name: Sanofi
     url: https://www.sanofi.com/

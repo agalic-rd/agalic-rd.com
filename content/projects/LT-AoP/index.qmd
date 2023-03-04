@@ -26,13 +26,13 @@ categories:
 # Dirty trick to get some links/buttons
 about:
   links:
-    - text: "{{< iconify carbon group-presentation >}} Talk"
-      file: content/sci-com/talks/ISTW22/
-      aria-label: "Link to the page of a talk about this project"
-    - text: "Article"
+    - text: "Article (CB'22)"
       icon: file-pdf
       file: content/pubs/articles/CB22/
       aria-label: "Link to the page of the main publication of this project"
+    - text: "{{< iconify carbon group-presentation >}} Talk (ISTW'22)"
+      file: content/sci-com/talks/ISTW22/
+      aria-label: "Link to the page of a talk about this project"
     - text: "{{< fa chart-column >}} Data & Analyses"
       file: content/code/LT-AoP/
       aria-label: "Webpage presenting the data & analyses made for this project"

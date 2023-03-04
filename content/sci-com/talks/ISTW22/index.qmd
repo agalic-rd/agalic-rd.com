@@ -31,6 +31,13 @@ categories:
   - "Neurodevelopment"
   - "Cerebellum"
   - "Apnea of Prematurity"
+
+# Dirty trick to get some links/buttons
+about:
+  links:
+    - text: "{{< fa business-time >}} Project (LT-AoP)"
+      file: /content/projects/LT-AoP/
+      aria-label: "Link to the project"
 ---
 
 <hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
