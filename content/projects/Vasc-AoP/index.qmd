@@ -13,7 +13,7 @@ image-alt: "Light sheet microscopy of the vascular network in a P8 mouse"
 description: "This project evaluates the impact of apnea of prematurity on cerebellar vascular development, using intermittent hypoxia in a murine model."
 
 abstract: |
-  This study aimed to identify the effects of AoP on cerebellar vascular development, and to demonstrate that the cerebellum is vulnerable to AoP. This was shown via immunohistochemistry studies and RT-qPCR. Results confirmed the presence of alterations in gene expression. This was further assessed through visible changes in blood vessel density via immunocytochemistry. Furthermore, transparisation studies are underway to observe these change in situ and in 3D.
+  This study aimed to identify the effects of AoP on cerebellar vascular development, and to demonstrate that the cerebellum is vulnerable to AoP. This was shown via immunohistochemistry studies and RT-qPCR. Results confirmed the presence of alterations in gene expression. This was further assessed through visible changes in blood vessel density via immunocytochemistry. Furthermore, transparisation studies are underway to observe these changes in situ and in 3D.
 
 categories:
   - "Cerebellum"

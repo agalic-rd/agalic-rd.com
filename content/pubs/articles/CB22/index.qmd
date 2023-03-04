@@ -50,7 +50,7 @@ abstract: |
   Moreover, this compensation seems insufficient to allow locomotor recovery because adult mice still show motor impairment and significant disorders in spatial learning.
   
   **Conclusions:** All these findings indicate that the cerebellum is a target of intermittent hypoxia through alterations of developmental mechanisms leading to long-term functional deficits. 
-  Thus, the cerebellum could contribute, like others brain structures, to explaining the pathophysiology of AOP.
+  Thus, the cerebellum could contribute, like other brain structures, to explaining the pathophysiology of AOP.
 
 categories:
   - "Molecular Neurosciences"

@@ -5,7 +5,7 @@ date: 2016-08
 
 # Labs
 author:
-  - name: "Cancer and Brain Genomics"
+  - name: "Differenciation, Neural and Neuroencodrine Communication"
 
 image: feature.png
 image-alt: "Immunohistochemistry marking of a mouse cerebellum"
