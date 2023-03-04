@@ -8,14 +8,14 @@ listing:
     fields: [image, date, title, subtitle, description, categories]
     categories: numbered
     date-format: medium
-    sort: [date desc, title desc]
+    sort: [date desc, title]
     page-size: 3
   - id: sci-com-posters
     contents: "posters/*/*.qmd"
     fields: [image, date, title, subtitle, description, categories]
     categories: numbered
     date-format: medium
-    sort: [date desc, title desc]
+    sort: [date desc, title]
     page-size: 3
 ---
 

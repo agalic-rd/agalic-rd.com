@@ -52,16 +52,20 @@ website:
     left:
       - text: "{{< fa business-time >}} Projects"
         file: content/projects/index.qmd
-        aria-label: "List of the projects I was or am involved in"
+        aria-label: "A list of the projects I was or am involved in"
       - text: "{{< fa book >}} Publications"
         file: content/pubs/index.qmd
-        aria-label: "List of my published and pending works"
+        aria-label: "A list of my scientific writings"
       - text: "{{< iconify file-icons keynote height=20px >}} Communications"
         file: content/sci-com/index.qmd
-        aria-label: "List of posters and talks I have presented"
+        aria-label: "A list of my Posters & Talks"
       - text: "{{< fa palette >}} Art"
         file: content/sci-art/index.qmd
-        aria-label: "My Art and Scientific Illustrations"
+        aria-label: "A sample of my artistic production"
+      - text: "Code"
+        icon: code-slash
+        file: content/code/index.qmd
+        aria-label: "A list of my R and stats projects"
     right:
       - text: "{{< fa user-tie >}} About Me"
         file: content/about.qmd
@@ -104,8 +108,8 @@ format:
     css: libs/css/style.css
     grid:
       sidebar-width: 250px
-      body-width: 900px
-      margin-width: 300px
+      body-width: 1000px
+      margin-width: 250px
     df-print: paged
     fig-align: center
     fig-dpi: 500

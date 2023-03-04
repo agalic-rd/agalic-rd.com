@@ -1,0 +1,14 @@
+---
+title: "{{< fa code >}} Code"
+subtitle: "A list of my R/stats projects"
+
+# toc: false
+# number-sections: false
+
+listing:
+  contents: "*.qmd"
+  fields: [image, title, subtitle, description, categories]
+  categories: numbered
+  date-format: medium
+  sort: [title]
+---

@@ -22,7 +22,7 @@ listing:
   - id: art-drawings
     template: gallery.ejs
     contents: drawings-listing.yml
-    sort: [title desc]
+    sort: [title]
     page-size: 6
 ---
 

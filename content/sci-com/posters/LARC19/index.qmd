@@ -1,14 +1,14 @@
 ---
 title: "Effects of perinatal hypoxia on oxidative stress-related gene expression in the murine cerebellum"
 subtitle: "LARC'19 conference"
-date: 2019-09-01 # TODO
+date: 2019-10-18
 
 author:
   - name: "Agalic Rodriguez-Duboc"
     orcid: 0000-0002-2084-3780
 
 image: feature.png
-image-alt: "TODO"
+# image-alt: "TODO"
 
 description: "Our research shows that the oxidative stress-related damage to the cerebellum is greater with repeated episodes of hypoxia-reoxygenation."
 
@@ -31,5 +31,5 @@ categories:
 <hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
 
 <object data="LARC19.pdf" type="application/pdf" width="100%" height="1440">
-  <iframe src="https://docs.google.com/preview?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/sci-com/posters/LARC19/LARC19.pdf&embedded=true" style="width:100%; height:1440px;" frameborder="0"></iframe>
+  <iframe src="https://docs.google.com/preview?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/sci-com/posters/LARC19/LARC19.pdf&embedded=true" width="100%" height="1440" frameborder="0"></iframe>
 </object>

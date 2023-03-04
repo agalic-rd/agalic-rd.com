@@ -1,6 +1,6 @@
 # Pubs
 
-# Default image for all pubs
+# Default image
 image: ../../res/avatar.jpg
 image-alt: "Profile picture of Agalic"
 

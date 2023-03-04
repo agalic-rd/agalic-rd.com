@@ -1,10 +1,16 @@
-# Art
+# Code
 
 # Default image
 image: ../../res/avatar.jpg
 image-alt: "Profile picture of Agalic"
 
-license: "CC BY-SA"
+# toc: true
+# number-sections: true
+
+# Dirty trick to get some links/buttons
+about:
+  template: solana
+  image-width: "0%"
 
 filters:
   - lightbox

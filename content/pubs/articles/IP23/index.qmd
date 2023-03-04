@@ -64,11 +64,13 @@ categories:
 
 <hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
 
-<!-- TODO: remove after the fact -->
+<!-- TODO: remove when published -->
 :::{.callout-note}
 This article is currently in preparation and should be submitted in the summer of 2023
 :::
 
-<!-- <object data="IP23.pdf" type="application/pdf" width="100%" height="900">
-  <iframe src="https://docs.google.com/viewer?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/pubs/articles/IP23/IP23.pdf&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>
+<!-- <object data="IP23.pdf" type="application/pdf" width="100%" height="1000">
+  <iframe width="100%" height="1000"
+    src="https://docs.google.com/viewer?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/pubs/articles/IP23/IP23.pdf&embedded=true">
+  </iframe>
 </object> -->

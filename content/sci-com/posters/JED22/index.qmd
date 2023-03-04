@@ -1,14 +1,14 @@
 ---
 title: "Apnea of Prematurity induces molecular, cellular, and vascular alterations in the murine cerebellum: focusing on angiogenesis"
 subtitle: "NBISE Doctoral Days"
-date: 2022-09-01 # TODO
+date: 2022-06-01
 
 author:
   - name: "Agalic Rodriguez-Duboc"
     orcid: 0000-0002-2084-3780
 
 image: feature.png
-image-alt: "TODO"
+# image-alt: "TODO"
 
 description: "Intermittent hypoxia in the cerebellum is correlated with changes in the expression of angiogenesis-related genes and in the establishment of the cerebellar vascular network."
 
@@ -33,5 +33,5 @@ categories:
 <hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
 
 <object data="JED22.pdf" type="application/pdf" width="100%" height="1440">
-  <iframe src="https://docs.google.com/viewer?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/sci-com/posters/JED22/JED22.pdf&embedded=true" style="width:100%; height:1440px;" frameborder="0"></iframe>
+  <iframe src="https://docs.google.com/viewer?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/sci-com/posters/JED22/JED22.pdf&embedded=true" width="100%" height="1440" frameborder="0"></iframe>
 </object>

@@ -1,7 +1,7 @@
 ---
 title: "Cellular and molecular alterations induced by Apnea of Prematurity in the murine cerebellum"
-subtitle: "ISTW Disabilities and Integration"
-date: 2022-01-13
+subtitle: "ISTW: Disabilities and Inclusion"
+date: 2022-01-12
 
 author:
   - name: "Agalic Rodriguez-Duboc"
@@ -35,6 +35,10 @@ categories:
 
 <hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
 
+:::{.callout-note}
+*The International Staff Training Week: Disabilities and Inclusion* was a symposium aimed at University leaders and preventive medicine staff. The goal of my presentation was to highlight some of the current research topics about disabilities.
+:::
+
 <object data="ISTW22.pdf" type="application/pdf" width="100%" height="600">
-  <iframe src="https://docs.google.com/viewer?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/sci-com/talks/ISTW22/ISTW22.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
+  <iframe src="https://docs.google.com/viewer?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/sci-com/talks/ISTW22/ISTW22.pdf&embedded=true" width="100%" height="600" frameborder="0"></iframe>
 </object>

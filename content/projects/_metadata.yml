@@ -1,6 +1,6 @@
 # Projects
 
-# Default image for all pubs
+# Default image
 image: ../../res/avatar.jpg
 image-alt: "Profile picture of Agalic"
 
@@ -18,7 +18,6 @@ about:
 
 filters:
   - lightbox
-  # - nutshell
 
 lightbox:
   match: auto

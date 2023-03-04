@@ -8,13 +8,13 @@ listing:
     fields: [image, date, title, subtitle, description, categories]
     categories: numbered
     date-format: medium
-    sort: [date desc, title desc]
+    sort: [date desc, title]
   - id: pubs-articles
     contents: "articles/*/*.qmd"
     fields: [image, date, title, author, subtitle, description, categories]
     categories: numbered
     date-format: medium
-    sort: [date desc, title desc]
+    sort: [date desc, title]
     filter-ui: true
     sort-ui: [date, title]
 ---
