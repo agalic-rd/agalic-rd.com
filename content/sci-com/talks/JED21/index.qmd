@@ -59,7 +59,7 @@ about:
       aria-label: "Link to the project"
 ---
 
-<hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
+<hr style="margin-bottom: 30px; margin-top: -12px;" width="1000">
 
 :::{.callout-tip appearance="simple"}
 I was awarded the best presentation prize for that talk.

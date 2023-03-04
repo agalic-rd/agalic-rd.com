@@ -38,7 +38,7 @@ about:
       aria-label: "Webpage presenting the data & analyses made for this project"
 ---
 
-<hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
+<hr style="margin-bottom: 30px; margin-top: -12px;" width="1000">
 
 ![](feature.png){.preview-image fig-alt="Image illustrating the project"}
 

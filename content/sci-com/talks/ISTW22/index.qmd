@@ -40,7 +40,7 @@ about:
       aria-label: "Link to the project"
 ---
 
-<hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
+<hr style="margin-bottom: 30px; margin-top: -12px;" width="1000">
 
 :::{.callout-note}
 *The International Staff Training Week: Disabilities and Inclusion* was a symposium aimed at University leaders and preventive medicine staff. The goal of my presentation was to highlight some of the current research topics about disabilities.

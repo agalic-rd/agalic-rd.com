@@ -69,7 +69,7 @@ about:
       aria-label: "Link to the project"
 ---
 
-<hr style="margin-bottom: 30px; margin-top: -12px;" width="900px">
+<hr style="margin-bottom: 30px; margin-top: -12px;" width="1000">
 
 <!-- TODO: remove when published -->
 :::{.callout-note}
