@@ -83,7 +83,7 @@ about:
       aria-label: "Webpage presenting the data & analyses made for this project"
 ---
 
-<hr style="margin-bottom: 30px; margin-top: -12px;" width="1000">
+{{< include /content/_hr.qmd >}}
 
 <object data="CB22.pdf" type="application/pdf" width="100%" height="1000">
   <iframe width="100%" height="1000"

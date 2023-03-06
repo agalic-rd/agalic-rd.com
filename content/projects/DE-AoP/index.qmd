@@ -40,6 +40,6 @@ about:
       aria-label: "Link to the page of the main publication of this project"
 ---
 
-<hr style="margin-bottom: 30px; margin-top: -12px;" width="1000">
+{{< include /content/_hr.qmd >}}
 
 ![](feature.png){.preview-image fig-alt="Image illustrating the project"}
