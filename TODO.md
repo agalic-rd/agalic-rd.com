@@ -1,4 +1,5 @@
 **General:**
+- Two side-by-side caroussels on the home page ?
 - Check open-graph & Twitter cards for all pages
 
 **Projects:**
