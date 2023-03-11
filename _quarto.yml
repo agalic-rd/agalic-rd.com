@@ -102,6 +102,12 @@ citation: false
 comments: false
 toc: false
 
+filters:
+  - lightbox
+
+lightbox:
+  match: auto
+
 format:
   html:
     theme: [default, libs/css/light.scss]

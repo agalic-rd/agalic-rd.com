@@ -14,6 +14,7 @@ author:
     - ref: cbg
   - name: "Marc-Aurèle Rivière"
     orcid: 0000-0002-5108-3382
+    url: https://ma-riviere.me
     affiliations:
       - ref: litis
 

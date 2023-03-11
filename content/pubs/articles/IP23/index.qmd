@@ -15,6 +15,7 @@ author:
     - ref: cbg
   - name: "Marc-Aurèle Rivière"
     orcid: 0000-0002-5108-3382
+    url: https://ma-riviere.me
     affiliations:
       - ref: litis
   - name: "Magali Basille-Duguay"
@@ -69,7 +70,7 @@ about:
       aria-label: "Link to the project"
 ---
 
-<hr style="margin-bottom: 30px; margin-top: -12px;" width="1000">
+{{< include /content/_hr.qmd >}}
 
 <!-- TODO: remove when published -->
 :::{.callout-note}
