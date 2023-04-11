@@ -2,7 +2,7 @@
 title: "Cellular, molecular and vascular alterations induced by apnea of prematurity in the murine cerebellum"
 subtitle: "Doctoral Thesis"
 
-date: 2023-05-31
+date: 2023-06-05
 published-title: "To be defended on" # TODO: remove after the fact
 
 # Supervisors
