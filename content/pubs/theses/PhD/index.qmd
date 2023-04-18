@@ -12,30 +12,35 @@ author:
       - ref: cbg
 
 image: feature.png
-image-alt: "TODO"
+image-alt: "An illustration of a newborn's brain subjected to intermittent hypoxia"
 
 description: "This work focuses on the effects of apnea of prematurity on the development of the cerebellum in the perinatal period."
 
 abstract: |
-  The cerebellum is involved, not only in motor functions such as coordination and equilibrium, but also in cognition and behavior. At birth, the human cerebellar cortex is still immature, making it vulnerable to perinatal events. Perinatal hypoxia is a leading cause of morbimortality worldwide and apnea of prematurity (AoP) occurs in over 50% of preterm infants. A correlation between cerebellar functions and the deficits observed in children having suffered from AoP has been demonstrated, yet the implication for the cerebellum remains poorly understood. 
+  The cerebellum is involved in diverse functions, from motor control and equilibrium to spatial learning and emotion. At birth, the human cerebellar cortex is still immature, making it vulnerable to  perinatal events such as hypoxia. Apnea of prematurity (AOP) is a main cause of perinatal hypoxia, as  it occurs in over 50% of preterm infants. Several relationships between cerebellar functions and the deficits observed in children having suffered from AOP have been demonstrated, but the physio-pathological mechanisms by which AoP affects the cerebellum remain poorly understood.
 
-  This work aims at shedding light on the mechanisms underlying cerebellar hypoxic injury. To this end, we developed an intermittent hypoxia (IH) protocol, consisting of repeated 2-minute cycles of hypoxia-reoxygenation (including 20 seconds at 5% O2) between P2 and P12 during 6 hours per day, which constitutes a valid model of Apnea of Prematurity (AoP). Histological studies following this protocol revealed a delay in cerebellar maturation post-IH. Moreover, compared to the controls, these mice presented long-term alterations in functions linked to the cerebellum such as learning and motor skills. 
+  This work aims at shedding light on the mechanisms underlying cerebellar hypoxic injury. To this end, we developed an intermittent hypoxia (IH) protocol, consisting of repeated 2-minute cycles of hypoxia-reoxygenation (including 20 seconds at 5% O2), applied between P2 and P12, 6 hours per day, which constitutes a valid murine model of AOP.
 
-  Firstly, we studied oxidative stress and showed that reactive oxygen species (ROS) production increases in mice after IH. IH also induces a significant delay in histogenesis, leading to a decrease in the thickness of the cerebellar cortex layers. This disorganization of the cerebellum is accompanied by deficits in reflex acquisition. We found that genes involved in ROS production are overexpressed while genes encoding antioxidant enzymes are underexpressed. These alterations suggest a failure of the defense system against ROS and could be responsible for neuronal death in the cerebellum. 
+  In a first study, we show that the cerebellum is indeed sensitive to IH, and presents a significant delay in maturation at the end of our IH protocol. In addition, hypoxia seems to induce an overexpression of genes involved in reactive oxygen species (ROS) production, which accumulate in the cerebellum. Conversely, genes coding for antioxidant enzymes are underexpressed after IH, suggesting a failure of the defense system against ROS. IH also induces long-term damage, in the form of learning and motor deficits, which are associated with the over-innervation of Purkinje cells by climbing fibers.
 
-  Based on these first results, we performed a transcriptomic study (by RT-qPCR) of genes involved in cell differentiation and migration. We analyzed the expression of these genes in different developmental stages (P4, P8, P12, P21 and P70) and in different cell types by using laser capture microdissection to separate cerebellar layers. This enabled us to pinpoint a potential timeframe of vulnerability; indeed, at P8, IH cerebella displayed the most downregulated genes, which was progressively reverted at later stages. Moreover, we identified several pathways involved in the pathophysiology of AoP such as “synapse formation” and “cytoskeletal scaffold” in neurons and “myelination” in oligodendrocytes. This indicates that IH could modify the phenotype of various cells and contribute to the observed histological and behavioral deficits.
+  We followed these results with a transcriptomic study of genes involved in cell differentiation and migration. We analyzed the expression of these genes by RT-qPCR, in different developmental stages and in different cell types, using laser capture microdissection to separate cerebellar layers. This allowed us to determine that the period most vulnerable to IH is the P8 stage in mice, during which a significant number of genes are dysregulated in all cerebellar cortical layers. Moreover, it seems that all processes involved in cerebellar development are impacted, including proliferation, differentiation, synaptic connectivity, and myelination. Several compensatory and neuroprotective mechanisms are put in place during and after IH, but they do not seem to be sufficiently effective considering the persistence of deficits through adulthood.
 
-  The project provides elements to better understand the cellular and molecular aspects of AoP-induced cerebellar injury. In the long term, it could lead to the identification of novel therapeutic targets to address this socially and economically relevant health issue.
+  Finally, given the established connection between hypoxia and vascularization, we tested a gene panel focused on these processes and found significant regulations of angiogenic and growth factors. In addition, preliminary imaging results suggest that IH cerebella have a looser and less voluminous vascular network, a factor that could participate in the pathophysiology of AOP. We aim to pursue this line of inquiry with additional immunohistochemical and clearing studies.
+
+  Overall, the data presented here demonstrate that the cerebellum is affected by IH, and that its injury is, at least in part, responsible for the symptoms observed in children having experienced AOP. This project provides elements to better understand AOP, by connecting behavioral and histological alterations to plausible underlying cellular and molecular mechanisms. In the long term, it could lead to the identification of novel therapeutic targets to improve the current clinical management of this highly prevalent pathology.
 
 categories:
   - Neurodevelopment
   - Cerebellum
   - Apnea of Prematurity
+  - Intermittent Hypoxia
+  - Oxidative Stress
   - Transcriptomics
+  - Histology
 ---
 
 {{< include /content/_hr.qmd >}}
 
-<!-- <object data="PhD Thesis.pdf" type="application/pdf" width="100%" height="900">
+<object data="PhD Thesis.pdf" type="application/pdf" width="100%" height="900">
   <iframe src="https://docs.google.com/viewer?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/pubs/theses/PhD/PhD%20Thesis.pdf&embedded=true" width="100%" height="600" frameborder="0"></iframe>
-</object> -->
+</object>
