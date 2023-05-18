@@ -1,12 +1,12 @@
 ---
-title: "Apnea of prematurity induces oxidative stress-mediated transcriptional changes in the murine cerebellum"
+title: "Apnea of Prematurity induces short and long-term development-related transcriptional changes in the murine cerebellum"
 subtitle: "*In Preparation*"
 
-date: 2023-08-01
-published-title: "To be published by" # TODO: remove after the fact
+date: 2023-06-01
+published-title: "To be submitted by" # TODO: change to "To be published by", and later remove
 
 image: feature.png
-image-alt: "TODO"
+# image-alt: "TODO"
 
 author:
   - name: "Agalic Rodriguez-Duboc"
@@ -74,7 +74,7 @@ about:
 
 <!-- TODO: remove when published -->
 :::{.callout-note}
-This article is currently in preparation and should be submitted in the summer of 2023
+This article is currently in preparation and should be submitted by the end of May 2023
 :::
 
 <!-- <object data="IP23.pdf" type="application/pdf" width="100%" height="1000">

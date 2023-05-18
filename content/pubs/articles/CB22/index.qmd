@@ -4,7 +4,7 @@ subtitle: "Cell & Bioscience"
 date: 2022-09-06
 
 image: feature.png
-image-alt: "TODO"
+# image-alt: "TODO"
 
 author:
   - name: "Agalic Rodriguez-Duboc"
@@ -36,7 +36,7 @@ author:
 
 doi: 10.1186/s13578-022-00869-5
 
-description: "This project studied the impact of apnea of prematurity on cerebellar development and the long-term functional deficits resulting from it, using intermittent hypoxia in a mouse model."
+description: "This paper investigated the impact of apnea of prematurity on cerebellar development and the long-term functional deficits resulting from it, using intermittent hypoxia in a mouse model."
 
 abstract: |
   **Background:** Apnea of prematurity (AOP) is caused by respiratory control immaturity and affects nearly 50% of premature newborns. 
