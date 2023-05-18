@@ -34,7 +34,7 @@ about:
       icon: file-image
       file: content/sci-com/posters/LARC19/
       aria-label: "Link to the page of a poster about this project"
-    - text: "Article (IP'23 - In progress)"
+    - text: "Article (IP'23)"
       icon: file-pdf
       file: content/pubs/articles/IP23/
       aria-label: "Link to the page of the main publication of this project"
