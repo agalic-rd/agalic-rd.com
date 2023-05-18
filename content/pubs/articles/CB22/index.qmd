@@ -36,7 +36,7 @@ author:
 
 doi: 10.1186/s13578-022-00869-5
 
-description: "This project validates the use of our in-house device to implement an intermittent hypoxia protocol mimicking apnea of prematurity."
+description: "This project studied the impact of apnea of prematurity on cerebellar development and the long-term functional deficits resulting from it, using intermittent hypoxia in a mouse model."
 
 abstract: |
   **Background:** Apnea of prematurity (AOP) is caused by respiratory control immaturity and affects nearly 50% of premature newborns. 
