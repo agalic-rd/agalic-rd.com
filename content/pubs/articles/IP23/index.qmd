@@ -13,17 +13,20 @@ author:
     orcid: 0000-0002-2084-3780
     affiliations:
     - ref: cbg
-  - name: "Marc-Aurèle Rivière"
-    orcid: 0000-0002-5108-3382
-    url: https://ma-riviere.me
-    affiliations:
-      - ref: litis
   - name: "Magali Basille-Duguay"
     affiliations:
       - ref: dc2n
   - name: "Aurélien Debonne"
     affiliations:
       - ref: univ-rouen
+  - name: "Marc-Aurèle Rivière"
+    orcid: 0000-0002-5108-3382
+    url: https://ma-riviere.me
+    affiliations:
+      - ref: litis
+  - name: "David Vaudry"
+    affiliations:
+      - ref: cbg
   - name: "Delphine Burel"
     email: "delphine.burel@univ-rouen.fr"
     affiliations:
@@ -65,9 +68,15 @@ categories:
 # Dirty trick to get some links/buttons
 about:
   links:
+    # - text: "{{< ai springer >}} Article (online)"
+    #   url: TODO
+    #   aria-label: "Link to the online version of the article"
     - text: "{{< fa business-time >}} Project (DE-AoP)"
       file: /content/projects/DE-AoP/
       aria-label: "Link to the project"
+    # - text: "{{< fa chart-column >}} Data & Analyses"
+    #   file: content/code/DE-AoP/
+    #   aria-label: "Webpage presenting the data & analyses of this project"
 ---
 
 {{< include /content/_hr.qmd >}}

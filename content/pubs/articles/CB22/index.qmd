@@ -80,7 +80,7 @@ about:
       aria-label: "Link to the project"
     - text: "{{< fa chart-column >}} Data & Analyses"
       file: content/code/LT-AoP/
-      aria-label: "Webpage presenting the data & analyses made for this project"
+      aria-label: "Webpage presenting the data & analyses of this project"
 ---
 
 {{< include /content/_hr.qmd >}}
