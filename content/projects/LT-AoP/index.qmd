@@ -5,7 +5,8 @@ date: 2016-08
 
 # Labs
 author:
-  - name: "Differenciation, Neural and Neuroencodrine Communication"
+  - name: Neural and Neuroencodrine Differenciation & Communication (DC2N)
+    url: http://dc2n.labos.univ-rouen.fr/
 
 image: feature.png
 image-alt: "Immunohistochemistry marking of a mouse cerebellum"

@@ -6,6 +6,7 @@ date: 2022-10
 # Labs
 author:
   - name: "Cancer and Brain Genomics"
+    url: https://recherche.univ-rouen.fr/cbg-cancer-and-brain-genomics-umr-1245-679263.kjsp
 
 image: feature.png
 image-alt: "Light sheet microscopy of the vascular network in a P8 mouse"

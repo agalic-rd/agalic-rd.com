@@ -15,10 +15,10 @@ author:
     - ref: cbg
   - name: "Magali Basille-Duguay"
     affiliations:
-      - ref: dc2n
+      - ref: nordic
   - name: "Aurélien Debonne"
     affiliations:
-      - ref: univ-rouen
+      - ref: cbg
   - name: "Marc-Aurèle Rivière"
     orcid: 0000-0002-5108-3382
     url: https://ma-riviere.me
@@ -82,8 +82,8 @@ about:
 {{< include /content/_hr.qmd >}}
 
 <!-- TODO: remove when published -->
-:::{.callout-note}
-This article is currently in preparation and should be submitted by the end of May 2023
+:::{.callout-note appearance="simple"}
+### This article is currently in preparation and should be submitted by the end of May 2023
 :::
 
 <!-- <object data="IP23.pdf" type="application/pdf" width="100%" height="1000">

@@ -5,7 +5,12 @@ date: 2019-08
 
 # Labs
 author:
-  - name: "Differenciation, Neural and Neuroencodrine Communication"
+  - name: Neural and Neuroencodrine Differenciation & Communication (DC2N)
+    url: http://dc2n.labos.univ-rouen.fr/
+  - name: Cancer and Brain Genomics (CBG)
+    url: https://recherche.univ-rouen.fr/cbg-cancer-and-brain-genomics-umr-1245-679263.kjsp
+  - name: Neuroendocrine, Endocrine and Germinal Differentiation Communication (NorDic)
+    url: https://sciences-techniques.univ-rouen.fr/nordic-neuroendocrine-endocrine-and-germinal-differentiation-communication-umr-1239-679078.kjsp
 
 image: feature.png
 image-alt: "Circular plot illustrating the impact of the multiple genes tested on several key biological pathways"

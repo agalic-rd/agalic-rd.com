@@ -5,7 +5,8 @@ date: 2019-11
 
 # Labs
 author:
-  - name: "Differenciation, Neural and Neuroencodrine Communication"
+  - name: Neural and Neuroencodrine Differenciation & Communication (DC2N)
+    url: http://dc2n.labos.univ-rouen.fr/
 
 image: feature.png
 image-alt: "Peptide-receptor interaction"

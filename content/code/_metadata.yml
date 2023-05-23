@@ -3,5 +3,7 @@
 # toc: true
 # number-sections: true
 
+abstract-title: "Description"
+
 metadata-files: 
   - ../_links.yml
