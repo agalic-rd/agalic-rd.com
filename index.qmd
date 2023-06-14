@@ -1,6 +1,6 @@
 ---
 title: "Agalic Rodriguez-Duboc"
-subtitle: "MD & Developmental Neuroscientist  \n PhD candidate in molecular and cellular neurosciences  \n Passionate about Science, Arts, and Books  \n {{< iconify twemoji flag-dominican-republic >}} ▪️ {{< iconify twemoji flag-france >}} ▪️ {{< iconify twemoji flag-united-states >}} ▪ {{< iconify twemoji flag-norway >}}"
+subtitle: "MD and PhD in Molecular Neuroscience  \n Passionate about Science, Arts, and Books  \n {{< iconify twemoji flag-dominican-republic >}} ▪️ {{< iconify twemoji flag-france >}} ▪️ {{< iconify twemoji flag-united-states >}} ▪ {{< iconify twemoji flag-norway >}}"
 
 description: "[University of Rouen](https://univ-rouen.fr)  \n [Lab: Cancer and Brain Genomics](https://irib.univ-rouen.fr/index.php?info=entites&id=69)"
 
@@ -40,9 +40,9 @@ about:
 
 website:
   open-graph:
-    description: "MD & PhD in Developmental Neuroscience ◈ Passionate about Science, Arts, and Books"
+    description: "MD & PhD in Molecular Neuroscience ◈ Passionate about Science, Arts, and Books"
   twitter-card:
-    description: "MD & PhD in Developmental Neuroscience ◈ Passionate about Science, Arts, and Books"
+    description: "MD & PhD in Molecular Neuroscience ◈ Passionate about Science, Arts, and Books"
 
 listing:
   - id: art-thesis
@@ -67,8 +67,8 @@ listing:
 
 ::: {.column-page}
 
-Trained as a general physician and passionate about **research**, I have submitted my PhD dissertation in the field of cellular
-and **molecular neurosciences** which I will defend on June 5<sup>th</sup>. My project is focused on cerebellar development and apnea of prematurity.
+Trained as a general physician and passionate about **research**, I have recently obtained my PhD in the field of cellular
+and **molecular neurosciences**. My thesis project was focused on cerebellar development and apnea of prematurity.
 
 I love learning new **languages**. I am fluent in English, French, Spanish and currently learning Norwegian, Italian and German.
 
