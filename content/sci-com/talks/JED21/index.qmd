@@ -62,7 +62,7 @@ about:
 {{< include /content/_hr.qmd >}}
 
 :::{.callout-tip appearance="simple"}
-I was awarded the best presentation prize for that talk.
+### I was awarded the best presentation prize for that talk.
 :::
 
 <object data="JED21.pdf" type="application/pdf" width="100%" height="600">
