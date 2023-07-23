@@ -5,16 +5,16 @@ date: 2023-07-13
 
 doi: 10.5281/zenodo.8139284
 
-metadata-files: [../../_affiliations.yml]
+metadata-files: ["../../_affiliations.yml"]
 
 author:
   - name: "Marc-Aurèle Rivière"
     orcid: 0000-0002-5108-3382
+    url: https://ma-riviere.com
     affiliations:
       - ref: litis
   - name: "Agalic Rodriguez-Duboc"
     orcid: 0000-0002-2084-3780
-    url: https://agalic-rd.com
     affiliations:
     - ref: cbg
 
