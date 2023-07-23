@@ -5,10 +5,11 @@ subtitle: "*In Press*"
 date: 2023-07-13
 published-title: "Submitted on"
 
+image: feature.png
+
 author:
   - name: "Agalic Rodriguez-Duboc"
     orcid: 0000-0002-2084-3780
-    url: https://agalic-rd.com
     affiliations:
     - ref: cbg
   - name: "Magali Basille-Duguay"
@@ -19,6 +20,7 @@ author:
       - ref: cbg
   - name: "Marc-Aurèle Rivière"
     orcid: 0000-0002-5108-3382
+    url: https://ma-riviere.com
     affiliations:
       - ref: litis
   - name: "David Vaudry"
