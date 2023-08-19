@@ -20,7 +20,7 @@ website:
 - **MSc in Neuroscience** (2018-2019)  
   [University of Rouen-Normandy]{.about-details}
 
-- **Medical Doctor** (2011-2017)  
+- **Doctor of Medicine** (2011-2017)  
   [PUCMM University]{.about-details}
 
 ## {{< fa location-dot >}} Location
