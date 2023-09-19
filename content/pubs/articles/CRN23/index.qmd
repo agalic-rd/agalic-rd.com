@@ -80,11 +80,11 @@ about:
 {{< include /content/_hr.qmd >}}
 
 :::{.callout-note appearance="simple"}
-### This paper is currently being reviewed in *Molecular and Cellular Neuroscience*
+This paper is currently being reviewed in *Current Research in Neurobiology*
 :::
 
-<!-- <object data="MCN23.pdf" type="application/pdf" width="100%" height="1000">
+<!-- <object data="CRN23.pdf" type="application/pdf" width="100%" height="1000">
   <iframe width="100%" height="1000"
-    src="https://docs.google.com/viewer?url=https://github.com/ma-riviere/ma-riviere.com/raw/main/content/pubs/articles/MCN23/MCN23.pdf&embedded=true">
+    src="https://docs.google.com/viewer?url=https://github.com/ma-riviere/ma-riviere.com/raw/main/content/pubs/articles/CRN23/CRN23.pdf&embedded=true">
   </iframe>
 </object> -->
