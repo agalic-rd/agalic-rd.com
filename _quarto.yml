@@ -39,7 +39,7 @@ website:
   ### Navigation ###
   # page-navigation: true
   navbar:
-    logo: hexabrain.svg
+    logo: res/hexabrain.svg
     # logo-alt: ""
     pinned: true
     collapse: true
