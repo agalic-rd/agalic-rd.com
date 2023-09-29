@@ -1,8 +1,8 @@
 # Default image
 image: /res/avatar.jpg
-image-alt: "Profile picture of Agalic"
 
 # Dirty trick to get some links/buttons
 about:
+  id: about-links
   template: solana
   image-width: "0%"

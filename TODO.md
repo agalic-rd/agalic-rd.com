@@ -5,6 +5,7 @@
 **Projects:**
 
 **Publications:**
+
 - PhD thesis: add content (with images, e.g. hypoxia chamber)
   * Links towards related content (e.g. illustrations) ?
 

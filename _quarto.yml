@@ -35,12 +35,15 @@ website:
     location: navbar
     type: overlay
     collapse-after: 10
+    show-item-context: true
   
   ### Navigation ###
   # page-navigation: true
+  bread-crumbs: true
+
   navbar:
     logo: res/hexabrain.svg
-    # logo-alt: ""
+    logo-alt: "Stylized depicption of a brain inside a hexagon"
     pinned: true
     collapse: true
     collapse-below: md

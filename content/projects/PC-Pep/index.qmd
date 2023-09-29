@@ -26,6 +26,3 @@ categories:
 ---
 
 {{< include /content/_hr.qmd >}}
-
-![](feature.png){.preview-image fig-alt="Image illustrating the project"}
-

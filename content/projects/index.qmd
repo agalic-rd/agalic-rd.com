@@ -1,16 +1,13 @@
 ---
 title: "{{< fa business-time >}} Research Projects"
-subtitle: "Projects I am or have been involved in"
-
-toc: false
-number-sections: false
+subtitle: "Research projects I am or was involved in"
 
 listing:
   contents: "*.qmd"
   fields: [image, title, subtitle, description, categories]
   categories: numbered
   date-format: medium
-  sort: [title]
+  sort: [date desc, title]
   filter-ui: true
   sort-ui: [date, title]
 ---

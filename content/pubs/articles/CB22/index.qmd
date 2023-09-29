@@ -8,26 +8,32 @@ image: feature.png
 
 author:
   - name: "Agalic Rodriguez-Duboc"
+    degrees: ["MD", "PhD"]
     orcid: 0000-0002-2084-3780
     affiliations:
     - ref: cbg
     attributes:
       equal-contributor: true
   - name: "Sarah Leroux"
+    degrees: ["PhD"]
     attributes:
       equal-contributor: true
     affiliations:
     - ref: sanofi
   - name: "Arnaud Arabo"
+    degrees: ["PhD"]
     affiliations:
       - ref: srb
   - name: "Magali Basille-Duguay"
+    degrees: ["PhD"]
     affiliations:
       - ref: dc2n
   - name: "David Vaudry"
+    degrees: ["PhD"]
     affiliations:
       - ref: cbg
   - name: "Delphine Burel"
+    degrees: ["PhD"]
     email: "delphine.burel@univ-rouen.fr"
     affiliations:
       - ref: cbg

@@ -2,5 +2,4 @@
 
 license: "CC BY-SA"
 
-metadata-files: 
-  - ../_links.yml
+metadata-files: [../_links.yml]

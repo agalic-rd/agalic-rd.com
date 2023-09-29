@@ -2,34 +2,48 @@
 title: "Apnea of Prematurity induces short and long-term development-related transcriptional changes in the murine cerebellum"
 subtitle: "*In Press*"
 
-date: 2023-07-13
-published-title: "Submitted on"
-
 image: feature.png
 
 author:
   - name: "Agalic Rodriguez-Duboc"
+    degrees: ["MD", "PhD"]
     orcid: 0000-0002-2084-3780
     affiliations:
-    - ref: cbg
+      - ref: cbg
+    roles: ["investigation", "methodology", "project administration", "data curation", "formal analysis", "visualization", "illustration", "validation", "writing - original draft", "writing - review & editing"]
+    
   - name: "Magali Basille-Duguay"
+    degrees: ["PhD"]
     affiliations:
       - ref: nordic
+    roles: ["supervision", "investigation", "resources", "writing - review & editing"]
+    
   - name: "Aurélien Debonne"
+    degrees: ["MSc"]
     affiliations:
       - ref: cbg
+    roles: ["investigation", "writing - review & editing"]
+    
   - name: "Marc-Aurèle Rivière"
+    degrees: ["MSc"]
     orcid: 0000-0002-5108-3382
     url: https://ma-riviere.com
     affiliations:
       - ref: litis
+    roles: ["methodology", "software", "data curation", "formal analysis", "visualization", "validation", "writing - review & editing"]
+    
   - name: "David Vaudry"
+    degrees: ["PhD"]
     affiliations:
       - ref: cbg
+    roles: ["funding acquisition", "resources", "conceptualization", "writing - review & editing"]
+    
   - name: "Delphine Burel"
+    degrees: ["PhD"]
     email: "delphine.burel@univ-rouen.fr"
     affiliations:
       - ref: cbg
+    roles: ["conceptualization", "methodology", "funding acquisition", "project administration", "supervision", "resources", "writing - original draft", "writing - review & editing"]
     attributes:
       corresponding: true
 
@@ -53,11 +67,13 @@ categories:
   - "Apnea of Prematurity"
   - "RT-qPCR"
 
-# citation:
-#   type: article-journal
-#   container-title: "Cell & Bioscience"
-#   container-title-short: "Cell Biosci"
-#   issued: 2023-12-01
+## See: https://docs.citationstyles.org/en/stable/specification.html
+citation:
+  type: article-journal
+  container-title: "Current Research in Neurobiology"
+  container-title-short: "Curr. Res. Neurobiol."
+  status: "in press"
+  page: "1-22"
 #   doi: 10.1186/s13578-022-00869-5
 #   url: https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-022-00869-5
 #   volume: 12
@@ -85,6 +101,6 @@ This paper is currently being reviewed in *Current Research in Neurobiology*
 
 <!-- <object data="CRN23.pdf" type="application/pdf" width="100%" height="1000">
   <iframe width="100%" height="1000"
-    src="https://docs.google.com/viewer?url=https://github.com/ma-riviere/ma-riviere.com/raw/main/content/pubs/articles/CRN23/CRN23.pdf&embedded=true">
+    src="https://docs.google.com/viewer?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/pubs/articles/CRN23/CRN23.pdf&embedded=true">
   </iframe>
 </object> -->

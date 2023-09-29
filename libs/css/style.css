@@ -21,9 +21,14 @@ pre code { font-size: 0.85rem; }
   justify-content: center;
 }
 
+.about-entity > img.about-image {
+  clip-path: polygon(50% 2%, 100% 25%, 100% 75%, 50% 98%, 0% 75%, 0% 25%);
+}
+
 /* For the about trick to add link buttons */
 .quarto-about-solana.column-body {
-  padding-top: 0 !important
+  padding-top: 0 !important;
+  padding-bottom: 0 !important
 }
 
 .quarto-about-jolla div p {

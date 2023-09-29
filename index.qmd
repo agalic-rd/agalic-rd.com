@@ -9,7 +9,7 @@ image-alt: "Profile picture of Agalic"
 
 about:
   template: trestles
-  image-shape: round
+  image-shape: rectangle
   links:
     - text: "{{< ai orcid >}} ORCID"
       url: https://orcid.org/0000-0002-2084-3780

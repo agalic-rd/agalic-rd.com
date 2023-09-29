@@ -1,9 +1,6 @@
 # Code
 
-# toc: true
-# number-sections: true
-
+# Renaming fields
 abstract-title: "Description"
 
-metadata-files: 
-  - ../_links.yml
+metadata-files: [../_links.yml]

@@ -1,11 +1,7 @@
 # Projects
 
+metadata-files: [../_links.yml]
+
 # Renaming fields
 published-title: "Began Around"
 author-title: "Consortium"
-
-toc: true
-number-sections: true
-
-metadata-files: 
-  - ../_links.yml
