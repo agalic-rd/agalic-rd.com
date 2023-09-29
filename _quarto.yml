@@ -14,7 +14,7 @@ website:
   title: "Agalic Rodriguez-Duboc"
   description: "MD & PhD in Developmental Neuroscience ◈ Passionate about Science, Arts, and Books"
   image: res/avatar.jpg
-  favicon: res/favicon.png
+  favicon: res/hexabrain.svg
   site-url: 'https://agalic-rd.com'
   
   ### Analytics ###
@@ -39,7 +39,7 @@ website:
   ### Navigation ###
   # page-navigation: true
   navbar:
-    # logo: TODO
+    logo: hexabrain.svg
     # logo-alt: ""
     pinned: true
     collapse: true
