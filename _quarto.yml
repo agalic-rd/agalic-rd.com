@@ -43,7 +43,7 @@ website:
 
   navbar:
     logo: res/hexabrain.svg
-    logo-alt: "Stylized depicption of a brain inside a hexagon"
+    logo-alt: "Stylized depiction of a brain inside a hexagon"
     pinned: true
     collapse: true
     collapse-below: md
