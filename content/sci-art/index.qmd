@@ -30,6 +30,7 @@ toc-title: "Type"
 ---
 
 # Scientific Illustrations
+***
 
 Digital illustrations I have drawn to enrich my PhD Thesis
 
@@ -37,6 +38,7 @@ Digital illustrations I have drawn to enrich my PhD Thesis
 :::
 
 # Drawings
+***
 
 Ink and pencil anatomical drawings I have made
 

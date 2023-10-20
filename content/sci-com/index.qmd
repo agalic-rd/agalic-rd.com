@@ -23,11 +23,13 @@ toc-title: "Medium"
 ---
 
 # {{< iconify carbon group-presentation >}} Talks
+***
 
 :::{#sci-com-talks}
 :::
 
 # {{< fa file-image >}} Posters
+***
 
 :::{#sci-com-posters}
 :::
