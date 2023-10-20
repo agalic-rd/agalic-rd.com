@@ -9,7 +9,7 @@ listing:
     categories: numbered
     date-format: medium
     sort: [date desc, title]
-    page-size: 3
+    page-size: 5
   - id: sci-com-posters
     contents: "posters/*/*.qmd"
     fields: [image, date, title, subtitle, description, categories]
@@ -17,14 +17,17 @@ listing:
     date-format: medium
     sort: [date desc, title]
     page-size: 3
+
+toc: true
+toc-title: "Medium"
 ---
 
-## {{< iconify carbon group-presentation >}} Talks
+# {{< iconify carbon group-presentation >}} Talks
 
 :::{#sci-com-talks}
 :::
 
-## {{< fa file-image >}} Posters
+# {{< fa file-image >}} Posters
 
 :::{#sci-com-posters}
 :::

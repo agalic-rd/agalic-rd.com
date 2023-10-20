@@ -16,15 +16,20 @@ listing:
     date-format: medium
     sort: [date desc, title]
     filter-ui: true
-    sort-ui: [date, title]
+    sort-ui: [date]
+
+toc: true
+toc-title: "Type"
 ---
 
-## {{< iconify map university >}} Theses
-
-:::{#pubs-theses}
-:::
-
-## {{< fa file-pdf >}} Articles
+# {{< fa file-pdf >}} Articles
+***
 
 :::{#pubs-articles}
+:::
+
+# {{< iconify map university >}} Theses
+***
+
+:::{#pubs-theses}
 :::

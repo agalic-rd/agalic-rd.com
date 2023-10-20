@@ -24,16 +24,19 @@ listing:
     contents: drawings-listing.yml
     sort: [title]
     page-size: 6
+
+toc: true
+toc-title: "Type"
 ---
 
-## PhD Illustrations
+# Scientific Illustrations
 
 Digital illustrations I have drawn to enrich my PhD Thesis
 
 :::{#art-thesis}
 :::
 
-## Drawings
+# Drawings
 
 Ink and pencil anatomical drawings I have made
 

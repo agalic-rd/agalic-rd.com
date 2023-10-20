@@ -3,7 +3,7 @@
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
     "features": {
         "ghcr.io/rocker-org/devcontainer-features/quarto-cli:latest": {
-			"version": "1.4.392"
+			"version": "1.4.432"
 		}
     },
 	"customizations": {
