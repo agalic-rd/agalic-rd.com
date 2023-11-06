@@ -1,3 +1,5 @@
 # Pubs/Articles
 
 metadata-files: ["../../_affiliations.yml"]
+
+license: "CC BY-NC-ND"
