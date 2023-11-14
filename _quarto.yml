@@ -95,7 +95,9 @@ website:
 
 
 from: markdown+emoji
-bibliography: res/refs.bib
+bibliography: 
+  - res/refs.bib
+  - res/software.bib
 csl: res/apa.csl
 link-citations: true
 

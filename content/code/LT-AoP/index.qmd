@@ -62,8 +62,6 @@ grid:
   sidebar-width: 100px
   body-width: 1300px
   margin-width: 100px
-
-bibliography: refs.bib
 ---
 
 <hr style="margin-bottom: 30px; margin-top: -12px;" width="1300">
