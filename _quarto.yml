@@ -71,7 +71,10 @@ website:
     tools:
       - icon: github
         menu:
-          - text: Source Code
+          - text: GitHub Profile
+            url:  https://github.com/agalic-rd/
+            aria-label: "My GitHub profile"
+          - text: Website's Source Code
             url:  https://github.com/agalic-rd/agalic-rd.com
             aria-label: "Website's source code"
   
