@@ -24,9 +24,11 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
+      # https://github.com/actions/checkout/releases
       - name: Checkout repository
         uses: actions/checkout@v4
       
+      # https://github.com/quarto-dev/quarto-actions/releases
       - name: Install Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:

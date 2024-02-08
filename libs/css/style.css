@@ -22,7 +22,7 @@ pre code { font-size: 0.85rem; }
 }
 
 .about-entity > img.about-image {
-  clip-path: polygon(50% 2%, 100% 25%, 100% 75%, 50% 98%, 0% 75%, 0% 25%);
+  clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
 }
 
 /* For the about trick to add link buttons */
