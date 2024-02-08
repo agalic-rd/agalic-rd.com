@@ -2,7 +2,7 @@
 title: "Agalic Rodriguez-Duboc"
 subtitle: "MD and PhD in Molecular Neuroscience  \n Passionate about Science, Arts, and Books  \n {{< iconify twemoji flag-dominican-republic >}} ▪️ {{< iconify twemoji flag-france >}} ▪️ {{< iconify twemoji flag-united-states >}} ▪ {{< iconify twemoji flag-norway >}}"
 
-description: "[NTNU](https://www.ntnu.no/)  \n [Lab: Kavli Institute for Systems Neuroscience](https://www.ntnu.edu/kavli/)"
+description: "[NTNU](https://www.ntnu.no/)  \n [Kavli Institute for Systems Neuroscience](https://www.ntnu.edu/kavli/)"
 
 image: res/avatar.jpg
 image-alt: "Profile picture of Agalic"
@@ -67,8 +67,7 @@ listing:
 
 ::: {.column-page}
 
-Trained as a general physician and passionate about **research**, I have recently obtained my PhD in the field of cellular
-and **molecular neurosciences**. My thesis project was focused on cerebellar development and apnea of prematurity.
+Trained as a general physician and passionate about **research**, I have recently obtained my PhD in the field of **cellular and molecular neurosciences**. My thesis project was focused on cerebellar development and apnea of prematurity.
 
 I love learning new **languages**. I am fluent in English, French, Spanish and currently learning Norwegian, Italian and German.
 

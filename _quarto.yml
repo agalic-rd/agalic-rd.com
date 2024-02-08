@@ -105,11 +105,7 @@ citation: false
 comments: false
 toc: false
 
-filters:
-  - lightbox
-
-lightbox:
-  match: auto
+lightbox: true
 
 format:
   html:
