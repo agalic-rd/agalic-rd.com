@@ -32,18 +32,21 @@ jobs:
         with:
           version: '1.4.549' # pre-release
           # tinytex: true
-        
+      
+      # https://github.com/actions/configure-pages/releases
       - name: Setup Pages
-        uses: actions/configure-pages@v1
+        uses: actions/configure-pages@v4
       
       - name: Render Website
         run: quarto render
       
+      # https://github.com/actions/upload-pages-artifact/releases
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: '_site'
       
+      # https://github.com/actions/deploy-pages/releases
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@main
+        uses: actions/deploy-pages@v4
