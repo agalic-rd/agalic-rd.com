@@ -2,7 +2,7 @@
 title: "Agalic Rodriguez-Duboc"
 subtitle: "MD and PhD in Molecular Neuroscience  \n Passionate about Science, Arts, and Books  \n {{< iconify twemoji flag-dominican-republic >}} ▪️ {{< iconify twemoji flag-france >}} ▪️ {{< iconify twemoji flag-united-states >}} ▪ {{< iconify twemoji flag-norway >}}"
 
-description: "[University of Rouen](https://univ-rouen.fr)  \n [Lab: Cancer and Brain Genomics](https://irib.univ-rouen.fr/index.php?info=entites&id=69)"
+description: "[NTNU](https://www.ntnu.no/)  \n [Lab: Kavli Institute for Systems Neuroscience](https://www.ntnu.edu/kavli/)"
 
 image: res/avatar.jpg
 image-alt: "Profile picture of Agalic"
