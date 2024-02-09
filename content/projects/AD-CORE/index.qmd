@@ -14,7 +14,7 @@ image: feature.png
 # image-alt: "???"
 
 description: |
-  The overarching objective of this project is to elucidate the major factors causing the very early neuronal AD patho-phenotype in the human neuron-type where AD predominantly begins by developping a new type of human neuron-specific culture platform.
+  This project aims to elucidate the major molecular factors causing early AD pathology by developping a new type of human neuron-specific culture protocol.
 
 abstract: |
   AD is the most common neurodegenerative disease leading to dementia, and its increasing prevalence is placing an ever-increasing burden on healthcare systems worldwide. Current AD treatments merely alleviate some symptoms, but as the root cause has remained elusive, no cure has been found yet.  Developing such a treatment or cure will undoubtedly require a much deeper understanding of the initiating events of the AD cascade. This is the goal of this project.
