@@ -1,0 +1,44 @@
+---
+title: "AD-CORE"
+subtitle: "Alzheimer's Disease: Cellular Origins and Reelin Effects"
+date: 2024-02-05
+
+# Labs
+author:
+  - name: K.G. Jebsen Centre for Alzheimer’s Disease (JCA)
+    url: https://www.ntnu.edu/kavli/k.g.-jebsen-centre-for-alzheimer-s-disease/
+  - name: Neurobiological Laboratory
+    url: https://www.ntnu.edu/inb/neurobio
+
+image: feature.png
+# image-alt: "???"
+
+description: |
+  The overarching objective of this project is to elucidate the major factors causing the very early neuronal AD patho-phenotype in the human neuron-type where AD predominantly begins by developping a new type of human neuron-specific culture platform.
+
+abstract: |
+  AD is the most common neurodegenerative disease leading to dementia, and its increasing prevalence is placing an ever-increasing burden on healthcare systems worldwide. Current AD treatments merely alleviate some symptoms, but as the root cause has remained elusive, no cure has been found yet.  Developing such a treatment or cure will undoubtedly require a much deeper understanding of the initiating events of the AD cascade. This is the goal of this project.
+  The initiation of AD is tied to intraneuronal accumulation of Amyloid-β (Aβ) oligomers and neurofibrillary tangles (NFTs), leading to massive neuronal degeneration. All this typically starts in a specific population of neurons, that express a protein called reelin, and which are located in the lateral entorhinal cortex (LEC) layer II (LII). 
+  However, the reasons for this specificity remain poorly understood. This is largely because current models fail to replicate the early spatio-temporal dynamics of AD, preventing us from unraveling the underlying causes. 
+  To bridge this gap, AD-CORE will generate human subject-specific reelin-expressing LECLII-like neurons, which will allow me to manipulate key neuron-specific proteins, and study crucial molecular mechanisms underpinning the onset of the disease.
+  
+  This project is funded by a research grant from [Nasjonalforeningen for Folkehelsen](https://nasjonalforeningen.no/om-oss/aktuelt/forskningsbevilgninger-2024/)
+
+categories:
+  - "Molecular Neurosciences"
+  - "Neurodegeneration"
+  - "Alzheimer's Disease"
+  - "Cell Culture"
+  - "Transcriptomics"
+
+# Dirty trick to get some links/buttons
+about:
+  links:
+    - text: "Project's grant page"
+      icon: globe
+      url: https://nasjonalforeningen.no/stott-demensforskning/demensforskning/
+      aria-label: "Link to the page of the grant that funds this project"
+---
+
+{{< include /content/_hr.qmd >}}
+

@@ -37,7 +37,11 @@ pre code { font-size: 0.85rem; }
 
 /* Custom text styles */
 
-.about-details {
+.about-employer {
   font-size: 0.85rem;
   color: #888888;
+}
+
+.about-missions {
+  font-size: 0.95rem;
 }

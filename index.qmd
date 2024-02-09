@@ -40,9 +40,9 @@ about:
 
 website:
   open-graph:
-    description: "MD & PhD in Molecular Neuroscience ◈ Passionate about Science, Arts, and Books"
+    description: "MD & PhD in Molecular and Cellular Neuroscience ◈ Passionate about Science, Arts, Crafts and Books"
   twitter-card:
-    description: "MD & PhD in Molecular Neuroscience ◈ Passionate about Science, Arts, and Books"
+    description: "MD & PhD in Molecular and Cellular Neuroscience ◈ Passionate about Science, Arts, Crafts and Books"
 
 listing:
   - id: art-thesis
