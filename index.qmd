@@ -1,6 +1,6 @@
 ---
 title: "Agalic Rodriguez-Duboc"
-subtitle: "MD and PhD in Molecular Neuroscience  \n Passionate about Science, Arts, and Books  \n {{< iconify twemoji flag-dominican-republic >}} ▪️ {{< iconify twemoji flag-france >}} ▪️ {{< iconify twemoji flag-united-states >}} ▪ {{< iconify twemoji flag-norway >}}"
+subtitle: "MD and PhD in Molecular and Cellular Neuroscience  \n Passionate about Science, Arts, Crafts and Books  \n {{< iconify twemoji flag-dominican-republic >}} ▪️ {{< iconify twemoji flag-france >}} ▪️ {{< iconify twemoji flag-united-states >}} ▪ {{< iconify twemoji flag-norway >}}"
 
 description: "[NTNU](https://www.ntnu.no/)  \n [Kavli Institute for Systems Neuroscience](https://www.ntnu.edu/kavli/)"
 
