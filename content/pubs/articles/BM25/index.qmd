@@ -1,0 +1,88 @@
+---
+title: "Bnip3 expression in the brain of an Alzheimer’s disease rat model"
+subtitle: "Brain Mechanisms"
+date: 2025-10-01
+
+image: graphical_abstract.png
+image-alt: "Graphical abstract of this paper"
+
+author:
+  - name: "Agalic Rodriguez Duboc"
+    degrees: [MD, PhD]
+    orcid: 0000-0002-2084-3780
+    affiliations:
+      - ref: ntnu-kisn
+      - ref: ntnu-kisn-jca
+    # roles: ["investigation", "methodology", "project administration", "data curation", "formal analysis", "visualization", "illustration", "validation", "writing - original draft", "writing - review & editing"]
+  - name: "Sophia Tsu Velicer"
+    degrees: MD
+    affiliations:
+      - ref: ntnu-kisn
+      - ref: ntnu-kisn-jca
+    # roles: ["supervision", "investigation", "resources", "writing - review & editing"]    
+  - name: "Asgeir Kobro-Flatmoen"
+    url: https://www.ntnu.edu/employees/asgeir.kobro-flatmoen
+    degrees: PhD
+    email: "asgeir.kobro-flatmoe@ntnu.no"
+    affiliations:
+      - ref: ntnu-kisn
+      - ref: ntnu-kisn-jca
+    # roles: ["conceptualization", "methodology", "funding acquisition", "project administration", "supervision", "resources", "writing - original draft", "writing - review & editing"]
+    attributes:
+      corresponding: true
+
+doi: 10.1016/j.bramec.2025.202518
+
+description: "Bnip3 is selectively high in reelin+ entorhinal layer II neurons in both wild-type and McGill-R-Thy1-APP rats, with no somatic changes across age or genotype. Subtle increases at hippocampal terminal layers in the model suggest altered mitochondrial turnover linked to intraneuronal Aβ, while the rest of the forebrain shows low/absent Bnip3."
+
+abstract: |
+    High levels of pro-mitophagic BCL2 and adenovirus E1B 19-kDa-interacting protein 3 (Bnip3) was recently found selectively present in reelin-expressing entorhinal cortex layer II neurons (Re+ ECLII neurons) in wild-type rats. This population of neurons is known to be affected in Alzheimer’s disease. We therefore characterized Bnip3 expression in the forebrain of the McGill-R-Thy1-APP rat model, with a particular emphasis on Re+ ECLII neurons, and tested for potential differences in expression in these neurons vis-à-vis wild-type rats. To this end, we immunohistochemically labeled the brains of 24 animals divided into ages 3, 12, and 18 months, and analyzed their brains by optical density measurements and visual characterizations. We found that high Bnip3 expression was restricted to dorsolateral Re+ ECLII neurons, and, like reelin, was gradually less expressed in those situated successively further ventromedially. Quantitative analyses revealed no significant changes in Bnip3 expression within neuronal somata of these neurons as a function of age or genotype. Conversely, model rats at ages 3 and 18 months, but not at 12 months, appeared to have increased Bnip3 expression in the hippocampal sublayers that contain Re+ ECLII neuronal terminals. For the rest of the forebrain the expression of Bnip3 was, broadly speaking, low or absent.
+
+    Our results may be taken to indicate that (1) while the Aβ pathology of McGill-R-Thy1-APP rats does not substantially alter the expression of Bnip3, (2) the subtle changes in Bnip3 expression associated with the terminals of Re+ ECLII neurons might reflect alterations in mitochondrial turnover, possibly as a response to increased levels and/or altered conformations of intraneuronal Aβ.
+
+categories:
+  - Alzheimer's disease
+  - Amyloid-β
+  - Neuroanatomical markers
+  - Neurometabolism
+  - Mitophagy
+  - Synaptic modulation
+
+## See: https://docs.citationstyles.org/en/stable/specification.html
+citation:
+  type: article-journal
+  container-title: "Brain Mechanisms"
+  container-title-short: "Brain Mech."
+  page: "202518"
+  url: https://www.sciencedirect.com/science/article/pii/S305064252500034X
+  volume: "148-150"
+  issn: "30506425"
+
+# Dirty trick to get some links/buttons
+about:
+  template: solana
+  links:
+    - text: "{{< ai elsevier >}} Article (online)"
+      url: https://www.sciencedirect.com/science/article/pii/S305064252500034X
+      aria-label: "Link to the online version of the article"
+    - text: "Data & Analyses"
+      icon: github
+      url: https://github.com/agalic-rd/Bnip3_McGill_AD
+      aria-label: "Link to the GitHub repository with the code & data for this paper"
+---
+
+{{< include /content/_hr.qmd >}}
+
+## Highlights {.unnumbered}
+
+- Bnip3 protein is highly expressed in an entorhinal layer II neuronal population.
+- This population selectively expresses reelin.
+- In the rest of the forebrain, Bnip3 expression is generally low or moderate.
+- This holds true for both wild-type and Alzheimer’s model rats.
+- The model pathology likely induces subtle changes in Bnip3 in entorhinal terminals.
+
+<object data="BM25.pdf" type="application/pdf" width="100%" height="1000">
+  <iframe width="100%" height="100%" style="border:none;"
+    src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://agalic-rd.com/content/pubs/articles/BM25/BM25.pdf">
+  </iframe>
+</object>

@@ -84,6 +84,7 @@ citation:
 
 # Dirty trick to get some links/buttons
 about:
+  template: solana
   links:
     - text: "{{< ai elsevier >}} Article (online)"
       url: https://www.sciencedirect.com/science/article/pii/S2665945X23000414

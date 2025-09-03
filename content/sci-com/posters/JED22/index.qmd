@@ -31,6 +31,7 @@ categories:
 
 # Dirty trick to get some links/buttons
 about:
+  template: solana
   links:
     - text: "{{< fa business-time >}} Project (Vasc-AoP)"
       file: /content/projects/Vasc-AoP/

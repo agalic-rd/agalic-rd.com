@@ -31,6 +31,7 @@ categories:
 
 # Dirty trick to get some links/buttons
 about:
+  template: solana
   links:
     - text: "{{< iconify carbon group-presentation >}} Talk (JED'21)"
       file: content/sci-com/talks/JED21/

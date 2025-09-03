@@ -77,6 +77,7 @@ citation:
 
 # Dirty trick to get some links/buttons
 about:
+  template: solana
   links:
     - text: "{{< ai springer >}} Article (online)"
       url: https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-022-00869-5

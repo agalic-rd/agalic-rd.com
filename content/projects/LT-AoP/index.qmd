@@ -26,6 +26,7 @@ categories:
 
 # Dirty trick to get some links/buttons
 about:
+  template: solana
   links:
     - text: "Article (CB'22)"
       icon: file-pdf

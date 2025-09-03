@@ -33,6 +33,7 @@ categories:
 
 # Dirty trick to get some links/buttons
 about:
+  template: solana
   links:
     - text: "Project's grant page"
       icon: globe

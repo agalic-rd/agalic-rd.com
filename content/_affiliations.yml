@@ -1,4 +1,23 @@
 affiliations:
+  # Norway
+  ## Trondheim
+  - id: ntnu
+    name: "Norwegian University of Science and Technology (NTNU)"
+    url: https://www.ntnu.edu/
+    city: Trondheim
+    country: Norway
+  - id: ntnu-kisn
+    name: "Kavli Institute for Systems Neuroscience (KISN), NTNU"
+    url: https://www.ntnu.edu/kavli/
+    city: Trondheim
+    country: Norway
+  - id: ntnu-kisn-jca
+    name: "K.G. Jebsen Centre for Alzheimer's Disease (JCA), KISN, NTNU"
+    url: https://www.ntnu.edu/kavli/k.g.-jebsen-centre-for-alzheimer-s-disease
+    city: Trondheim
+    country: Norway
+  # France
+  ## Rouen
   - id: dc2n
     name: "Neural and Neuroencodrine Differentiation & Communication"
     url: http://dc2n.labos.univ-rouen.fr/
@@ -34,6 +53,7 @@ affiliations:
     url: "https://www.univ-rouen.fr/"
     city: Rouen
     country: France
+  # All
   - id: pucmm
     name: "Pontificia Universidad Católica Madre y Maestra"
     url: "https://pucmm.edu.do/"

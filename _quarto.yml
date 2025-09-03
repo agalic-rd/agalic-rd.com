@@ -127,6 +127,7 @@ format:
     code-block-bg: true
     code-overflow: scroll
     highlight-style: libs/highlight-styles/light.theme
+    link-external-icon: true
     link-external-newwindow: true
 
 execute:

@@ -38,6 +38,7 @@ categories:
   - "R"
 
 about:
+  template: solana
   links:
     - text: "Code"
       icon: github
