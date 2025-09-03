@@ -83,7 +83,7 @@ about:
 - The model pathology likely induces subtle changes in Bnip3 in entorhinal terminals.
 
 <object data="BM25.pdf" type="application/pdf" width="100%" height="1000">
-  <iframe width="100%" height="100%" style="border:none;"
+  <iframe width="100%" height="600" style="border:none;"
     src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://agalic-rd.com/content/pubs/articles/BM25/BM25.pdf">
   </iframe>
 </object>
