@@ -23,7 +23,8 @@ author:
   - name: "Asgeir Kobro-Flatmoen"
     url: https://www.ntnu.edu/employees/asgeir.kobro-flatmoen
     degrees: PhD
-    email: "asgeir.kobro-flatmoe@ntnu.no"
+    orcid: 0000-0003-0993-7281
+    email: "asgeir.kobro-flatmoen@ntnu.no"
     affiliations:
       - ref: ntnu-kisn
       - ref: ntnu-kisn-jca
