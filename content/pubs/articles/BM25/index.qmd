@@ -1,7 +1,7 @@
 ---
 title: "Bnip3 expression in the brain of an Alzheimer’s disease rat model"
 subtitle: "Brain Mechanisms"
-date: 2025-10-01
+date: 2025-07-04
 
 image: graphical_abstract.png
 image-alt: "Graphical abstract of this paper"
