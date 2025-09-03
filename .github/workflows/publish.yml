@@ -32,7 +32,7 @@ jobs:
       - name: Install Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: '1.4.549' # pre-release
+          version: '1.8.17' # pre-release
           # tinytex: true
       
       # https://github.com/actions/configure-pages/releases
