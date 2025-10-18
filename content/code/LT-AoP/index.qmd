@@ -58,6 +58,11 @@ about:
       icon: file-pdf
       file: content/pubs/articles/CB22/
       aria-label: "Link to the page of the main publication of this project"
+
+grid:
+  sidebar-width: 100px
+  body-width: 1300px
+  margin-width: 100px
 ---
 
 <hr style="margin-bottom: 30px; margin-top: -12px;" width="1300">
