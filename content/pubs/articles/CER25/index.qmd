@@ -3,7 +3,8 @@ title: "Innovative 3D-image analysis of cerebellar vascularization highlights an
 subtitle: "The Cerebellum (In Review)"
 date: 2025-10-18
 
-# image: feature.png
+image: graphical-abstract.png
+image-alt: "Graphical abstract of this paper"
 
 author:
   - name: "Agalic Rodriguez-Duboc"
@@ -43,7 +44,7 @@ author:
 
 doi: 10.1101/2025.10.17.683055
 
-description: "Using innovative 3D imaging and transcriptomic analysis, this study reveals that intermittent hypoxia disrupts cerebellar angiogenesis in a murine model of apnea of prematurity, with multiphasic vascular and gene expression changes that persist long-term, highlighting the interconnected nature of angio- and neurogenesis in neurodevelopmental disorders."
+description: "Novel 3D imaging reveals that intermittent hypoxia from apnea of prematurity causes multiphasic cerebellar vascular disruptions and persistent angiogenic gene dysregulation, uncovering distinct responses in superficial versus deep vascular networks that parallel neurogenic deficits."
 
 abstract: |
   Apnea of prematurity (AOP) affects 50% of preterm infants causing intermittent hypoxia (IH), which can lead to long-term neurodevelopmental deficits. Cerebellar abnormalities have been observed in AOP but the relationship between vascular alterations and neural development remains unclear. This study investigates how IH affects cerebellar angiogenesis using a murine model of AOP.
@@ -72,10 +73,16 @@ about:
 
 {{< include /content/_hr.qmd >}}
 
+## Highlights {.unnumbered}
+
+- Intermittent hypoxia induces multiphasic vascular changes in the developing cerebellum, with initial expansion at P4 followed by normalization and persistent long-term alterations.
+- Novel 3D imaging workflow combining IMARIS and VesselVio enables quantitative analysis of superficial versus deep cerebellar vascular networks.
+- Transcriptomic dysregulation of 23 angiogenesis genes persists long after cessation of hypoxic exposure, particularly affecting VEGF, angiopoietin, and MMP pathways.
+- Superficial and deep vascular networks respond differently to intermittent hypoxia, revealing distinct remodeling patterns throughout development.
+- Vascular disruptions parallel neurogenic deficits, highlighting the interconnected nature of angio- and neurogenesis in apnea of prematurity.
+
 <object data="CER25.pdf" type="application/pdf" width="100%" height="1000">
   <iframe width="100%" height="600" style="border:none;"
     src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://agalic-rd.com/content/pubs/articles/CER25/CER25.pdf#page=2">
   </iframe>
 </object>
-
-
