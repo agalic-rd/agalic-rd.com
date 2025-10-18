@@ -13,9 +13,7 @@ author:
       - ref: cbg
       - ref: ntnu-kisn
       - ref: ntnu-kisn-jca
-    roles: ["investigation", "methodology", "project administration", "data curation", 
-            "formal analysis", "visualization", "validation", "writing - original draft", 
-            "writing - review & editing"]
+    roles: ["investigation", "methodology", "project administration", "data curation", "formal analysis", "visualization", "validation", "writing - original draft", "writing - review & editing"]
   - name: "Camille Racine"
     affiliations:
       - ref: cbg
@@ -39,9 +37,7 @@ author:
     email: "delphine.burel@univ-rouen.fr"
     affiliations:
       - ref: cbg
-    roles: ["investigation", "conceptualization", "methodology", "funding acquisition", 
-            "project administration", "supervision", "resources", "writing - original draft", 
-            "writing - review & editing"]
+    roles: ["investigation", "conceptualization", "methodology", "funding acquisition", "project administration", "supervision", "resources", "writing - original draft", "writing - review & editing"]
     attributes:
       corresponding: true
 
@@ -50,11 +46,11 @@ doi: 10.1101/2025.10.17.683055
 description: "Using innovative 3D imaging and transcriptomic analysis, this study reveals that intermittent hypoxia disrupts cerebellar angiogenesis in a murine model of apnea of prematurity, with multiphasic vascular and gene expression changes that persist long-term, highlighting the interconnected nature of angio- and neurogenesis in neurodevelopmental disorders."
 
 abstract: |
-  Apnea of prematurity (AOP) affects 50% of preterm infants causing intermittent hypoxia (IH),which can lead to long-term neurodevelopmental deficits. Cerebellar abnormalities have beenobserved in AOP but the relationship between vascular alterations and neural developmentremains unclear. This study investigates how IH affects cerebellar angiogenesis using a murinemodel of AOP.
+  Apnea of prematurity (AOP) affects 50% of preterm infants causing intermittent hypoxia (IH), which can lead to long-term neurodevelopmental deficits. Cerebellar abnormalities have been observed in AOP but the relationship between vascular alterations and neural development remains unclear. This study investigates how IH affects cerebellar angiogenesis using a murine model of AOP.
   
-  We developed an innovative 3D imaging workflow combining IMARIS and VesselViosoftware to quantitatively analyze cerebellar vascularization at different postnatal stages (P4,P8, P12, P21, and P70). We correlate these results with a transcriptomic analysis of 23angiogenesis-related genes in the same stages to uncover the associated molecular pathways.We found that IH induced significant vascular changes, particularly at P4, with a global increasein vascular-network dimensions. By P8, the vascular network normalized, but genes weredownregulated in all pathways studied. After P12, at the end of the IH protocol, transcriptionalregulations vary but persist long-term. Moreover, differential analysis showed distinct effectson superficial versus deep vascular networks, allowing for a more precise understanding ofremodeling patterns throughout development. Overall, transcriptomic changes were associatedwith morphological alterations in a time-dependent manner, suggesting a multiphasic IHresponse through development with lasting effects. Key regulations included VEGF,angiopoietin, and matrix metalloprotease signaling.
+  We developed an innovative 3D imaging workflow combining IMARIS and VesselVio software to quantitatively analyze cerebellar vascularization at different postnatal stages (P4, P8, P12, P21, and P70). We correlate these results with a transcriptomic analysis of 23 angiogenesis-related genes in the same stages to uncover the associated molecular pathways. We found that IH induced significant vascular changes, particularly at P4, with a global increase in vascular-network dimensions. By P8, the vascular network normalized, but genes were downregulated in all pathways studied. After P12, at the end of the IH protocol, transcriptional regulations vary but persist long-term. Moreover, differential analysis showed distinct effects on superficial versus deep vascular networks, allowing for a more precise understanding of remodeling patterns throughout development. Overall, transcriptomic changes were associated with morphological alterations in a time-dependent manner, suggesting a multiphasic IH response through development with lasting effects. Key regulations included VEGF, angiopoietin, and matrix metalloprotease signaling.
   
-  These findings demonstrate that IH disrupts cerebellar angiogenesis in parallel withneurogenesis, potentially contributing to the neurodevelopmental deficits observed in AOP.Thus, the interconnected nature of angio- and neurogenesis during cerebellar developmentmakes it crucial to take vascular aspects into account in therapeutic approaches toneurodevelopmental disorders.
+  These findings demonstrate that IH disrupts cerebellar angiogenesis in parallel with neurogenesis, potentially contributing to the neurodevelopmental deficits observed in AOP. Thus, the interconnected nature of angio- and neurogenesis during cerebellar development makes it crucial to take vascular aspects into account in therapeutic approaches to neurodevelopmental disorders.
 
 # See: https://docs.citationstyles.org/en/stable/specification.html
 # citation:
@@ -77,8 +73,8 @@ about:
 {{< include /content/_hr.qmd >}}
 
 <object data="CER25.pdf" type="application/pdf" width="100%" height="1000">
-  <iframe width="100%" height="100%" style="border:none;"
-    src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://agalic-rd.com/content/pubs/articles/CER25/CER25.pdf">
+  <iframe width="100%" height="600" style="border:none;"
+    src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://agalic-rd.com/content/pubs/articles/CER25/CER25.pdf#page=2">
   </iframe>
 </object>
 
