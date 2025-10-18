@@ -1,0 +1,78 @@
+---
+title: "Towards an in vitro model of early Alzheimer's disease pathology"
+subtitle: "ADTC'25 conference"
+date: 2025-09-10
+
+author:
+  - name: "Agalic Rodriguez-Duboc"
+    degrees: ["MD", "PhD"]
+    orcid: 0000-0002-2084-3780
+    affiliations:
+      - ref: ntnu-stolav-nds
+      - ref: ntnu-kisn-jca
+      - ref: ntnu-kisn
+  - name: "Katja Scheffler"
+    degrees: ["PhD"]
+    affiliations:
+      - ref: ntnu-stolav-nds
+      - ref: ntnu-mh-inb
+      - ref: stolav-neuro
+  - name: "Ida Johansson"
+    degrees: ["PhD"]
+    affiliations:
+      - ref: stolav-neuro
+  - name: "Axel Nyman"
+    degrees: ["MD", "PhD"]
+    affiliations:
+      - ref: ntnu-kisn-jca
+      - ref: stolav-neuro
+  - name: "Gøril Rolfseng Grøntvedt"
+    degrees: ["MD", "PhD"]
+    affiliations:
+      - ref: ntnu-stolav-nds
+      - ref: ntnu-kisn-jca
+      - ref: ntnu-kisn
+      - ref: stolav-neuro
+  - name: "Asgeir Kobro-Flatmoen"
+    degrees: ["PhD"]
+    affiliations:
+      - ref: ntnu-stolav-nds
+      - ref: ntnu-kisn-jca
+      - ref: ntnu-kisn
+
+image: feature.png
+
+description: "iPSC-derived Re+ EC layer II neuron model shows reelin induction with intrinsic+extrinsic cues; survival
+is limited."
+
+abstract: |
+  Alzheimer's disease (AD) is the most common neurodegenerative disease leading to dementia. While new drugs may slow progression, an effective treatment or cure will likely require a deeper understanding of the early pathological cascade.
+
+  AD onset in the cortex appears to be restricted initially to reelin-expressing (Re+) projection neurons in layer II (LII) of the entorhinal cortex (EC), particularly within the lateral EC (LEC). By combining intrinsic factors (via lentiviral vectors) and extrinsic factors (in the culture medium) to drive differentiation, we aim to convert induced pluripotent stem cells (derived from human blood) into neurons with a phenotype similar to human Re+ LEC LII neurons. A long-term goal is a reproducible, patient-specific culture platform for exploring Re+ LEC LII neuron molecular pathways involved in AD initiation.
+
+  Preliminary results show that control cells exposed only to extrinsic factors express CTIP2 and GluR5, markers found in LEC LII neurons, but lack PENK and reelin. This suggests extrinsic factors alone initiate differentiation without achieving a Re+ LEC LII-like phenotype. In contrast, cells exposed to both extrinsic and intrinsic factors form neurons that express reelin along with CTIP2 and GluR5, though PENK expression is not as clearly defined. Improving neuron survival remains a key challenge to enable further characterization.
+
+categories:
+  - Alzheimer's Disease
+  - iPSC
+  - Entorhinal Cortex
+  - Cell Culture
+
+about:
+  template: solana
+  links:
+    - text: "Conference website"
+      url: https://www.adtc.no/content/posters/rodriguez-duboc/
+      aria-label: "Link to the conference website"
+    - text: "{{< fa business-time >}} Project (AD-CORE)"
+      file: /content/projects/AD-CORE/
+      aria-label: "Link to the project"
+---
+
+{{< include /content/_hr.qmd >}}
+
+<object data="ADTC25.pdf" type="application/pdf" width="100%" height="1300">
+  <iframe width="100%" height="1300" style="border:none;"
+    src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://agalic-rd.com/content/sci-com/posters/ADTC25/ADTC25.pdf">
+  </iframe>
+</object>

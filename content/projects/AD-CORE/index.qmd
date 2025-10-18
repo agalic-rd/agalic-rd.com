@@ -11,7 +11,6 @@ author:
     url: https://www.ntnu.edu/inb/neurobio
 
 image: feature.png
-# image-alt: "???"
 
 description: |
   This project aims to elucidate the major molecular factors causing early AD pathology by developping a new type of human neuron-specific culture protocol.
@@ -39,7 +38,10 @@ about:
       icon: globe
       url: https://nasjonalforeningen.no/stott-demensforskning/demensforskning/
       aria-label: "Link to the page of the grant that funds this project"
+    - text: "Poster (ADTC'25)"
+      icon: file-image
+      file: content/sci-com/posters/ADTC25/
+      aria-label: "Link to the page of a poster about this project"
 ---
 
 {{< include /content/_hr.qmd >}}
-

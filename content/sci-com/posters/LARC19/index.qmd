@@ -6,9 +6,10 @@ date: 2019-10-18
 author:
   - name: "Agalic Rodriguez-Duboc"
     orcid: 0000-0002-2084-3780
+    affiliations:
+      - ref: dc2n
 
 image: feature.png
-# image-alt: "TODO"
 
 description: "Our research shows that the oxidative stress-related damage to the cerebellum is greater with repeated episodes of hypoxia-reoxygenation."
 

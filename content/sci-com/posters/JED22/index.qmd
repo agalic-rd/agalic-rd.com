@@ -6,9 +6,10 @@ date: 2022-06-01
 author:
   - name: "Agalic Rodriguez-Duboc"
     orcid: 0000-0002-2084-3780
+    affiliations:
+      - ref: dc2n
 
 image: feature.png
-# image-alt: "TODO"
 
 description: "Intermittent hypoxia in the cerebellum is correlated with changes in the expression of angiogenesis-related genes and in the establishment of the cerebellar vascular network."
 
@@ -41,5 +42,7 @@ about:
 {{< include /content/_hr.qmd >}}
 
 <object data="JED22.pdf" type="application/pdf" width="100%" height="1550">
-  <iframe src="https://docs.google.com/viewer?url=https://github.com/agalic-rd/agalic-rd.com/raw/main/content/sci-com/posters/JED22/JED22.pdf&embedded=true" width="100%" height="1440" frameborder="0"></iframe>
+  <iframe width="100%" height="1440" style="border:none;"
+    src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://agalic-rd.com/content/sci-com/posters/JED22/JED22.pdf">
+  </iframe>
 </object>

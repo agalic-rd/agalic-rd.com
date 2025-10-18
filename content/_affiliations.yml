@@ -16,6 +16,36 @@ affiliations:
     url: https://www.ntnu.edu/kavli/k.g.-jebsen-centre-for-alzheimer-s-disease
     city: Trondheim
     country: Norway
+  - id: ntnu-mh
+    name: "Faculty of Medicine and Health Sciences (MH), NTNU"
+    url: https://www.ntnu.edu/mh
+    city: Trondheim
+    country: Norway
+  - id: ntnu-mh-inb
+    name: "Department of Neuromedicine and Movement Science (INB), MH, NTNU"
+    url: https://www.ntnu.edu/inb
+    city: Trondheim
+    country: Norway
+  - id: stolav
+    name: "St. Olavs Hospital"
+    url: https://stolav.no/
+    city: Trondheim
+    country: Norway
+  - id: stolav-neuro
+    name: "Department of Neurology and Clinical Neurophysiology, St. Olav's Hospital"
+    url: https://www.stolav.no/avdelinger/nevroklinikken/nevrologi-og-klinisk-nevrofysiologi
+    city: Trondheim
+    country: Norway
+  - id: ntnu-stolav-neurobio
+    name: "Neurobiological Lab, INB, MH, NTNU"
+    url: https://www.ntnu.edu/inb/neurobio
+    city: Trondheim
+    country: Norway
+  - id: ntnu-stolav-nds
+    name: "Nasjonalforeningens Demensforskningssenter (NDS)"
+    url: https://www.ntnu.edu/
+    city: Trondheim
+    country: Norway
   # France
   ## Rouen
   - id: dc2n
