@@ -33,12 +33,12 @@ abstract: |
   A website documenting the analyses and their results was generated using Quarto, to allow interested readers to explore our data & models' outputs without having to run the code themselves.
 
 categories:
-  - "Biostatistics"
-  - "Bioinformatics"
-  - "Transcriptomics"
-  - "Immunohistochemistry"
-  - "Behavioral"
-  - "RT-qPCR"
+  - R
+  - Bioinformatics
+  - Biostatistics
+  - Transcriptomics
+  - RT-qPCR
+  - Behavioral
 
 # Dirty trick to get some links/buttons
 about:

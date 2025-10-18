@@ -1,0 +1,65 @@
+---
+title: "AD-McGill: Data & Analyses"
+subtitle: "Data and R code for the AD-McGill project and paper"
+date: 2025-01-09
+
+doi: 10.5281/zenodo.15199697
+
+metadata-files: ["../../_affiliations.yml"]
+
+author:
+  - name: "Agalic Rodriguez-Duboc"
+    orcid: 0000-0002-2084-3780
+    affiliations:
+    - ref: ntnu-kisn-jca
+    - ref: ntnu-kisn
+  - name: "Marc-Aurèle Rivière"
+    orcid: 0000-0002-5108-3382
+    url: https://ma-riviere.com
+
+image: feature.png
+image-alt: "Immunohistochemistry showing Bnip3 expression in the rat brain"
+
+description: "Immunohistochemical analyses of Bnip3 expression in an Alzheimer's disease rat model were analyzed in R,
+    hosted on GitHub, and archived through Zenodo."
+
+abstract: |
+  The [AD-McGill](/content/projects/AD-McGill/) project investigated Bnip3 expression patterns in the brain of a McGill-Thy1-APP transgenic rat model of Alzheimer's disease. Immunohistochemical data were analyzed in [R](https://www.r-project.org/) [@R] to quantify Bnip3 optical density across different brain regions.
+
+  Optical density measurements were modeled through the Generalized Linear Mixed Model (GLMM) framework, using the [glmmTMB](https://glmmtmb.github.io/glmmTMB/) [@glmmTMB] package. Random intercepts for subjects were included to account for the correlation between measurements from the same animal. The optimal likelihood family was selected  based on theoretical understanding and to minimize Aikake's Information Criterion (AIC). Optical density data were modeled using a Gamma likelihood with a log-link function.
+
+  Model diagnostics were performed using the [DHARMa](https://florianhartig.github.io/DHARMa/) [@DHARMa] & [performance](https://easystats.github.io/performance/) [@performance] packages, and estimated marginal means/contrasts were computed with the [emmeans](https://github.com/rvlenth/emmeans) package [@emmeans].
+
+  The project employed quantitative immunohistochemistry to measure Bnip3 protein expression across multiple brain regions (CA1, CA2/3, subiculum, and entorhinal cortex) in both wild-type and transgenic rats, revealing region-specific and genotype-dependent expression patterns.
+
+categories:
+  - R
+  - Bioinformatics
+  - Biostatistics
+  - Immunohistochemistry
+  - Imaging
+
+about:
+  template: solana
+  links:
+    - text: "Code"
+      icon: github
+      url: https://github.com/agalic-rd/Bnip3_McGill_AD
+      aria-label: "See the GitHub repository hosting the code of the project and related paper"
+    - text: "Details"
+      icon: search
+      url: https://ma-riviere.com/content/projects/AD-McGill/
+      aria-label: "More details on the analyses performed in this project"
+---
+
+{{< include /content/_hr.qmd >}}
+
+## Repository Structure
+
+The analysis code and data are organized in the following structure:
+
+- `analysis/`: R Markdown files with the complete data analysis pipeline
+- `data/`: Raw and processed datasets containing optical density measurements
+- `src/`: Custom R functions developed for the project
+- `fig/`: Generated figures and visualizations
+- Uses `renv` for reproducible package management

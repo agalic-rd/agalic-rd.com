@@ -19,12 +19,12 @@ affiliations:
   # France
   ## Rouen
   - id: dc2n
-    name: "Neural and Neuroencodrine Differentiation & Communication"
+    name: "Neural and Neuroencodrine Differentiation & Communication (DC2N)"
     url: http://dc2n.labos.univ-rouen.fr/
     city: Rouen
     country: France
   - id: cbg
-    name: "Cancer and Brain Genomics"
+    name: "Cancer and Brain Genomics (CBG)"
     url: https://recherche.univ-rouen.fr/cbg-cancer-and-brain-genomics-umr-1245-679263.kjsp
     city: Rouen
     country: France

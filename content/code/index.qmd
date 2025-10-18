@@ -1,6 +1,6 @@
 ---
 title: "{{< fa code >}} Code"
-subtitle: "A list of my R/stats projects"
+subtitle: "A sample of biostatistics/bioinformatics projects I've worked on"
 
 # toc: false
 # number-sections: false
@@ -10,5 +10,5 @@ listing:
   fields: [image, title, subtitle, description, categories]
   categories: numbered
   date-format: medium
-  sort: [title]
+  sort: [date desc]
 ---

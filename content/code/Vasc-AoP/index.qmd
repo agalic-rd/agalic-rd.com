@@ -12,14 +12,13 @@ author:
     orcid: 0000-0002-2084-3780
     affiliations:
     - ref: cbg
+    - ref: ntnu-kisn-jca
+    - ref: ntnu-kisn
   - name: "Marc-Aurèle Rivière"
     orcid: 0000-0002-5108-3382
     url: https://ma-riviere.com
-    affiliations:
-      - ref: litis
 
 image: feature.png
-image-alt: "Light sheet microscopy of the vascular network in a P8 mouse"
 
 description: "3D-image analysis and RT-qPCR data for the Vasc-AoP project were analysed in R, hosted on GitHub, and archived through Zenodo."
 
@@ -33,12 +32,13 @@ abstract: |
   The project employed an innovative 3D imaging workflow combining IMARIS and VesselVio software to quantitatively analyze cerebellar vascularization at different postnatal stages. Transcriptomic analysis of 23 angiogenesis-related genes was performed to uncover associated molecular pathways.
 
 categories:
-  - "Biostatistics"
-  - "Bioinformatics"
-  - "Transcriptomics"
-  - "Immunohistochemistry"
-  - "3D Imaging"
-  - "R"
+  - R
+  - Bioinformatics
+  - Biostatistics
+  - Immunohistochemistry
+  - Transcriptomics
+  - RT-qPCR
+  - Imaging
 
 about:
   template: solana
@@ -50,6 +50,10 @@ about:
       icon: github
       url: https://github.com/agalic-rd/Vasc-AoP
       aria-label: "See the GitHub repository hosting the code of the project and related paper"
+    - text: "Details"
+      icon: search
+      url: https://ma-riviere.com/content/projects/Vasc-AoP/
+      aria-label: "More details on the analyses performed in this project"
 ---
 
 {{< include /content/_hr.qmd >}}

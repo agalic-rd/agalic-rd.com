@@ -31,11 +31,12 @@ abstract: |
   Model diagnostics were done using the [DHARMa](https://florianhartig.github.io/DHARMa/) [@DHARMa] & [performance](https://easystats.github.io/performance/) [@performance] packages, and estimated marginal means/contrasts were computed with the [emmeans](https://github.com/rvlenth/emmeans) package [@emmeans].
 
 categories:
-  - "Biostatistics"
-  - "Bioinformatics"
-  - "Transcriptomics"
-  - "Immunohistochemistry"
-  - "R"
+  - R
+  - Bioinformatics
+  - Biostatistics
+  - Immunohistochemistry
+  - Transcriptomics
+  - RT-qPCR
 
 about:
   template: solana

@@ -69,6 +69,12 @@ about:
     - text: "Preprint (bioRxiv)"
       url: https://www.biorxiv.org/content/10.1101/2025.10.17.683055v1
       aria-label: "Link to the bioRxiv preprint"
+    - text: "{{< fa business-time >}} Project (Vasc-AoP)"
+      file: /content/projects/Vasc-AoP/
+      aria-label: "Link to the project this paper was part of"
+    - text: "{{< fa chart-column >}} Data & Analyses"
+      file: content/code/Vasc-AoP/
+      aria-label: "Link to the page of the data & analyses of this paper"
 ---
 
 {{< include /content/_hr.qmd >}}
