@@ -28,6 +28,10 @@ categories:
 about:
   template: solana
   links:
+    - text: "Article (CER'25)"
+      icon: file-pdf
+      file: content/pubs/articles/CER25/
+      aria-label: "Link to the page of the main publication of this project"
     - text: "Poster (JED'22)"
       icon: file-image
       file: content/sci-com/posters/JED22/
