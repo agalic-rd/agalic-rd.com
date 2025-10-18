@@ -1,0 +1,65 @@
+---
+title: "Vasc-AoP: Data & Analyses"
+subtitle: "Data and R code for the Vasc-AoP project and paper"
+date: 2025-05-01
+
+doi: 10.5281/zenodo.15319299
+
+metadata-files: ["../../_affiliations.yml"]
+
+author:
+  - name: "Agalic Rodriguez-Duboc"
+    orcid: 0000-0002-2084-3780
+    affiliations:
+    - ref: cbg
+  - name: "Marc-Aurèle Rivière"
+    orcid: 0000-0002-5108-3382
+    url: https://ma-riviere.com
+    affiliations:
+      - ref: litis
+
+image: feature.png
+image-alt: "Light sheet microscopy of the vascular network in a P8 mouse"
+
+description: "3D-image analysis and RT-qPCR data for the Vasc-AoP project were analysed in R, hosted on GitHub, and archived through Zenodo."
+
+abstract: |
+  The [Vasc-AoP](/content/projects/Vasc-AoP/) project included 3D-image analysis of cerebellar vascularization and RT-qPCR data, which were analysed in [R](https://www.r-project.org/) [@R]. Data were modeled through the Generalized Linear Mixed Model (GLMM) framework, using the [glmmTMB](https://glmmtmb.github.io/glmmTMB/) [@glmmTMB] package. Random intercepts were added to account for the correlation between pseudo-replicates.
+
+  The optimal likelihood families were selected based on our theoretical understanding of the variable's properties, and to minimize Aikake's Information Criterion (AIC). Count data (e.g., branchpoints) were modeled using Negative Binomial likelihood, and measures bound at 0 (e.g., vascular volume) were modeled using a Gamma likelihood.
+
+  Model diagnostics were done using the [DHARMa](https://florianhartig.github.io/DHARMa/) [@DHARMa] & [performance](https://easystats.github.io/performance/) [@performance] packages, and estimated marginal means/contrasts were computed with the [emmeans](https://github.com/rvlenth/emmeans) package [@emmeans].
+
+  The project employed an innovative 3D imaging workflow combining IMARIS and VesselVio software to quantitatively analyze cerebellar vascularization at different postnatal stages. Transcriptomic analysis of 23 angiogenesis-related genes was performed to uncover associated molecular pathways.
+
+categories:
+  - "Biostatistics"
+  - "Bioinformatics"
+  - "Transcriptomics"
+  - "Immunohistochemistry"
+  - "3D Imaging"
+  - "R"
+
+about:
+  template: solana
+  links:
+    - text: "{{< fa business-time >}} Project (Vasc-AoP)"
+      file: content/projects/Vasc-AoP/
+      aria-label: "Link to the project"
+    - text: "Code"
+      icon: github
+      url: https://github.com/agalic-rd/Vasc-AoP
+      aria-label: "See the GitHub repository hosting the code of the project and related paper"
+---
+
+{{< include /content/_hr.qmd >}}
+
+## Repository Structure
+
+The analysis code and data are organized in the following structure:
+
+- `analysis/`: R Markdown files with the complete data analysis pipeline
+- `data/`: Raw and processed datasets
+- `src/`: Custom R functions developed for the project
+- `fig/`: Generated figures and visualizations
+- Uses `renv` for reproducible package management

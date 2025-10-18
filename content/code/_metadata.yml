@@ -4,3 +4,8 @@
 abstract-title: "Description"
 
 metadata-files: [../_links.yml]
+
+grid:
+  sidebar-width: 100px
+  body-width: 1300px
+  margin-width: 100px
