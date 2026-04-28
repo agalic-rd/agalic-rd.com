@@ -65,3 +65,5 @@ site_libs/
 /*.html
 content/**/*.html
 /.luarc.json
+
+**/*.quarto_ipynb

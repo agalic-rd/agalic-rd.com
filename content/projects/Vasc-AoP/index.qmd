@@ -28,9 +28,9 @@ categories:
 about:
   template: solana
   links:
-    - text: "Article (CER'25)"
+    - text: "Article (CER'26)"
       icon: file-pdf
-      file: content/pubs/articles/CER25/
+      file: content/pubs/articles/CER26/
       aria-label: "Link to the page of the main publication of this project"
     - text: "{{< fa chart-column >}} Data & Analyses"
       file: content/code/Vasc-AoP/
