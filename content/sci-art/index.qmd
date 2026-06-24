@@ -2,45 +2,42 @@
 title: "{{< fa palette >}} Art"
 subtitle: "A sample of my artistic production"
 
-# Manually implementing lightbox on the listing
-include-in-header:
-  - text: <script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-  - text: <link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-  - text: <link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
-include-before-body: 
-  - text: <script>window.galleryCounter = 1;</script> # Global counter to separate each section's gallery
-include-after-body: 
-  - text: <script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","selector":".lightbox","openEffect":"zoom","loop":true, "descPosition":"bottom"});</script>
-
-listing:
-  - id: art-thesis
-    template: gallery.ejs
-    contents: thesis-listing.yml
-    sort: [title]
-    image-height: "300"
-    page-size: 6
-  - id: art-drawings
-    template: gallery.ejs
-    contents: drawings-listing.yml
-    sort: [title]
-    page-size: 6
+extensions:
+  photo-gallery:
+    layout: justified
+    thumbnail-height: 460
+    thumbnail-quality: 92
+    gap: 12
+    show-exif: false
+    show-date: false
+    show-download: false
 
 toc: true
-toc-title: "Type"
+toc-title: "Gallery"
+
+format:
+  html:
+    page-layout: full
 ---
 
-# Scientific Illustrations
-***
+::: {.art-page}
 
-Digital illustrations I have drawn to enrich my PhD Thesis
+::: {.art-gallery-section .art-gallery-section-illustrations}
+## Scientific Illustrations
 
-:::{#art-thesis}
+Digital illustrations drawn to enrich my PhD thesis.
+
+{{< photo-gallery thesis/ id="art-thesis" layout="justified" >}}
+
 :::
 
-# Drawings
-***
+::: {.art-gallery-section .art-gallery-section-drawings}
+## Drawings
 
-Ink and pencil anatomical drawings I have made
+Ink and pencil anatomical drawings.
 
-:::{#art-drawings}
+{{< photo-gallery drawings/ id="art-drawings" layout="grid" columns=4 gap=16 >}}
+
+:::
+
 :::

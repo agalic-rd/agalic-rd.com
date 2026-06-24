@@ -1,0 +1,18 @@
+# Per-image metadata for the "Drawings" gallery.
+# Keyed by filename. Titles override the filename-derived default.
+images:
+  Brain.png:
+    title: "The tree of life"
+    alt: "Ink and pencil anatomical drawing of a brain"
+  Cerebellum.jpg:
+    title: "The little brain"
+    alt: "Ink and pencil anatomical drawing of a cerebellum"
+  Heart.png:
+    title: "In a heartbeat"
+    alt: "Ink and pencil anatomical drawing of a heart"
+  Kidneys.png:
+    title: "Pyramid song"
+    alt: "Ink and pencil anatomical drawing of kidneys"
+  Skeleton.png:
+    title: "Mortui vivos docent"
+    alt: "Ink and pencil anatomical drawing of a skeleton"

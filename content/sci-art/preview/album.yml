@@ -1,0 +1,18 @@
+# Per-image metadata for the homepage art preview gallery.
+# Keyed by filename. Titles override the filename-derived default.
+images:
+  01-venous-drainage.png:
+    title: "Venous drainage of the cerebellum"
+    alt: "Scientific illustration of the venous drainage of the cerebellum"
+  02-tree-of-life.png:
+    title: "The tree of life"
+    alt: "Ink and pencil anatomical drawing of a brain"
+  03-cerebellum-brain-stem.png:
+    title: "Cerebellum & Brain Stem"
+    alt: "Scientific illustration of the cerebellum and brain stem"
+  05-cerebellar-cortex.png:
+    title: "Cerebellar Cortex"
+    alt: "Scientific illustration of the cerebellar cortex"
+  06-mortui-vivos-docent.png:
+    title: "Mortui vivos docent"
+    alt: "Ink and pencil anatomical drawing of a skeleton"

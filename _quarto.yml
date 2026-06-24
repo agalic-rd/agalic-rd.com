@@ -85,7 +85,7 @@ website:
   page-footer:
     border: true
     left: 
-      - text: "© 2022-2023, Agalic Rodriguez-Duboc"
+      - text: "© 2022-2026, Agalic Rodriguez-Duboc"
         href: LICENSE.md
         aria-label: "Website's license"
     right:

@@ -7,6 +7,16 @@ description: "[NTNU](https://www.ntnu.no/)  \n [Kavli Institute for Systems Neur
 image: res/avatar.jpg
 image-alt: "Profile picture of Agalic"
 
+extensions:
+  photo-gallery:
+    layout: justified
+    thumbnail-height: 440
+    thumbnail-quality: 92
+    gap: 8
+    show-exif: false
+    show-date: false
+    show-download: false
+
 about:
   template: trestles
   image-shape: rectangle
@@ -43,26 +53,6 @@ website:
     description: "MD & PhD in Molecular and Cellular Neuroscience ◈ Passionate about Science, Arts, Crafts and Books"
   twitter-card:
     description: "MD & PhD in Molecular and Cellular Neuroscience ◈ Passionate about Science, Arts, Crafts and Books"
-
-listing:
-  - id: art-thesis
-    template: content/sci-art/gallery.ejs
-    contents:
-      - title: Venous drainage of the cerebellum
-        image: content/sci-art/thesis/Vasc.png
-      - title: Cerebellum & Brain Stem
-        image: content/sci-art/thesis/CBTC.png
-      - title: Cerebellar Cortex
-        image: content/sci-art/thesis/Cortex.png
-  - id: art-drawings
-    template: content/sci-art/gallery.ejs
-    contents:
-      - title: The tree of life
-        image: content/sci-art/drawings/Brain.png
-      - title: In a heartbeat
-        image: content/sci-art/drawings/Heart.png
-      - title: Mortui vivos docent
-        image: content/sci-art/drawings/Skeleton.png
 ---
 
 ::: {.column-page}
@@ -80,17 +70,15 @@ currently learning Norwegian.
 **Creativity** is at the core of my life! I dabble in all arts and crafts and
 enjoy doing **scientific illustrations** for my research.
 
-::::: {.panel-tabset}
-## Illustrations
+::::: {.art-preview-section role="link" tabindex="0" data-gallery-href="content/sci-art/" aria-label="Open the full art gallery"}
+## Art preview
 
-::::::: {#art-thesis}
-:::::::
-
-## Drawings
-
-::::::: {#art-drawings}
-:::::::
+{{< photo-gallery content/sci-art/preview/ id="home-art-preview" >}}
 
 :::::
+
+```{=html}
+<script src="libs/js/art-preview.js"></script>
+```
 
 :::

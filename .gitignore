@@ -59,6 +59,9 @@ _site/
 res/data/
 res/models/
 
+# photo-gallery extension: auto-generated thumbnails (regenerated at render)
+content/sci-art/*/thumbs/
+
 # HTML
 **/index_files/*
 site_libs/
@@ -67,3 +70,4 @@ content/**/*.html
 /.luarc.json
 
 **/*.quarto_ipynb
+TODO.md

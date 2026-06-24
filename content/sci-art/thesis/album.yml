@@ -1,0 +1,66 @@
+# Per-image metadata for the "Scientific Illustrations" gallery.
+# Keyed by filename. Titles override the filename-derived default.
+images:
+  Arteries.png:
+    title: "Arterial irrigation of the cerebellum"
+    alt: "Scientific illustration of the arterial irrigation of the cerebellum"
+  Audition.png:
+    title: "Labyrinth"
+    alt: "Scientific illustration of the inner-ear labyrinth"
+  Brain.png:
+    title: "Brain"
+    alt: "Scientific illustration of the brain"
+  CB.png:
+    title: "Cerebellum"
+    alt: "Scientific illustration of the cerebellum"
+  CBTC.png:
+    title: "Cerebellum & Brain Stem"
+    alt: "Scientific illustration of the cerebellum and brain stem"
+  Chemo.png:
+    title: "Peripheral Chemoreceptors"
+    alt: "Scientific illustration of the peripheral chemoreceptors"
+  Cortex.png:
+    title: "Cerebellar Cortex"
+    alt: "Scientific illustration of the cerebellar cortex"
+  DCN.png:
+    title: "Deep Cerebellar Nuclei"
+    alt: "Scientific illustration of the deep cerebellar nuclei"
+  Disc.png:
+    title: "Trilaminar Disc Development"
+    alt: "Scientific illustration of trilaminar disc development"
+  Dvpmt.png:
+    title: "Cerebellar Foliation"
+    alt: "Scientific illustration of cerebellar foliation"
+  Eye.png:
+    title: "Eye"
+    alt: "Scientific illustration of the eye"
+  Foldingcb.png:
+    title: "Cerebellar Anlage"
+    alt: "Scientific illustration of the cerebellar anlage"
+  Newborn.png:
+    title: "Newborn brain"
+    alt: "Scientific illustration of a newborn brain"
+  RLVZV2.png:
+    title: "Rhombic lip and Ventricular zone"
+    alt: "Scientific illustration of the rhombic lip and ventricular zone"
+  Rhombo.png:
+    title: "Rhombomeres"
+    alt: "Scientific illustration of the rhombomeres"
+  Souris.png:
+    title: "Mouse brain"
+    alt: "Scientific illustration of a mouse brain"
+  Unrolled.png:
+    title: "Cerebellar Lobes"
+    alt: "Scientific illustration of the cerebellar lobes"
+  Vasc.png:
+    title: "Venous drainage of the cerebellum"
+    alt: "Scientific illustration of the venous drainage of the cerebellum"
+  Vascemb.png:
+    title: "Vascular Development"
+    alt: "Scientific illustration of vascular development"
+  Vesicles.png:
+    title: "Neural Tube Vesicles"
+    alt: "Scientific illustration of the neural tube vesicles"
+  Zebrin.png:
+    title: "Zebrin Zones"
+    alt: "Scientific illustration of the zebrin zones"
