@@ -39,7 +39,7 @@ jobs:
       # https://github.com/astral-sh/setup-uv/releases
       # Required by the photo-gallery extension, which runs `uv run --script` at render
       - name: Install uv
-        uses: astral-sh/setup-uv@v8
+        uses: astral-sh/setup-uv@v8.2.0
 
       # https://github.com/actions/configure-pages/releases
       - name: Setup Pages
